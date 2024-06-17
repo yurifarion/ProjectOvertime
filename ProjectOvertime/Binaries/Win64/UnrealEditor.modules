@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:048adf5e1364489b00f95050cf175e2ea496a809c32c94c88a3905c0cc39c51c
-size 102
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"ProjectOvertime": "UnrealEditor-ProjectOvertime.dll"
+	}
+}
