@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97db9cf7c92ab4e4eed50ce409956a6cc74e18b7960a0a9a4b0ac62bebb61b5b
-size 86
+[0305/181226.975:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
