@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47ced00c147a7b303dad972b5aa4d9c8b07def1edc7a7f0b45059f6eac43aeee
-size 428
+// Copyright Epic Games, Inc. All Rights Reserved.
+
+using UnrealBuildTool;
+using System.Collections.Generic;
+
+public class ProjectOvertimeEditorTarget : TargetRules
+{
+	public ProjectOvertimeEditorTarget( TargetInfo Target) : base(Target)
+	{
+		Type = TargetType.Editor;
+		DefaultBuildSettings = BuildSettingsVersion.V4;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
+		ExtraModuleNames.Add("ProjectOvertime");
+	}
+}

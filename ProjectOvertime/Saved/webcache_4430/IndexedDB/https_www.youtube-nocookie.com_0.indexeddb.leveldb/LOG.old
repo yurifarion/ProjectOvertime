@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e6f0cb56213bb41ccc5b75c6401b561df1db139e0e943ddd38d6421416526a7
-size 699
+2024/03/01-17:34:40.434 48b8 Creating DB C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/01-17:34:40.451 48b8 Reusing MANIFEST C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/01-17:36:24.289 4f14 Level-0 table #5: started
+2024/03/01-17:36:24.305 4f14 Level-0 table #5: 1167 bytes OK
+2024/03/01-17:36:24.307 4f14 Delete type=0 #3
+2024/03/01-17:36:24.308 4f14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

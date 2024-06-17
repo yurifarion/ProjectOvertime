@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a369c9304d798901152c97ab6fb1ed63c47048ef3c5b3d48e609ec4cec26aac
-size 837
+2024/03/01-17:36:25.381 4f14 Reusing MANIFEST C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/01-17:36:25.381 4f14 Recovering log #4
+2024/03/01-17:36:25.382 4f14 Reusing old log C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/03/01-17:38:11.823 4968 Level-0 table #8: started
+2024/03/01-17:38:11.823 4968 Level-0 table #8: 0 bytes OK
+2024/03/01-17:38:11.826 4968 Delete type=0 #4
+2024/03/01-17:38:11.829 4968 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/03/01-17:38:11.830 4968 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
