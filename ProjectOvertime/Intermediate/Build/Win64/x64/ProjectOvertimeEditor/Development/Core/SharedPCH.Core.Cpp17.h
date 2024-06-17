@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a2cff4de780247af3aa7ae5a76e82a8978b67761152dfd4120ea0e7f7f716cca
-size 279
+// PCH for Runtime/Core/Public/CoreSharedPCH.h
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/Core/SharedDefinitions.Core.Cpp17.h"
+#include "Runtime/Core/Public/CoreSharedPCH.h"

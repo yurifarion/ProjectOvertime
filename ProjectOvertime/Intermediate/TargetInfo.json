@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b95b47f7464ac962da6e05f145b229adff039ebc5994bb5d50532e94cedbd435
-size 251
+{
+	"Targets": [
+		{
+			"Name": "ProjectOvertime",
+			"Path": "..\\Source\\ProjectOvertime.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectOvertimeEditor",
+			"Path": "..\\Source\\ProjectOvertimeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

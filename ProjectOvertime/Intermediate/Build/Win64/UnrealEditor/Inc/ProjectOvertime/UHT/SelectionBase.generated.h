@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33f67c671e76a43677975e77bd99620386d125a743b062a9a0e9c2f3fa3ee99a
-size 4628
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "SelectionBase.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UWidget;
+enum class EUINavigation : uint8;
+#ifdef PROJECTOVERTIME_SelectionBase_generated_h
+#error "SelectionBase.generated.h already included, missing '#pragma once' in SelectionBase.h"
+#endif
+#define PROJECTOVERTIME_SelectionBase_generated_h
+
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_19_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FSelectionOption_Statics; \
+	PROJECTOVERTIME_API static class UScriptStruct* StaticStruct();
+
+
+template<> PROJECTOVERTIME_API UScriptStruct* StaticStruct<struct FSelectionOption>();
+
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_SPARSE_DATA
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnNavigation); \
+	DECLARE_FUNCTION(execSelectNext); \
+	DECLARE_FUNCTION(execSelectPrevious);
+
+
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_ACCESSORS
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSelectionBase(); \
+	friend struct Z_Construct_UClass_USelectionBase_Statics; \
+public: \
+	DECLARE_CLASS(USelectionBase, UCommonUserWidget, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/ProjectOvertime"), NO_API) \
+	DECLARE_SERIALIZER(USelectionBase)
+
+
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USelectionBase(USelectionBase&&); \
+	NO_API USelectionBase(const USelectionBase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USelectionBase); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USelectionBase); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USelectionBase) \
+	NO_API virtual ~USelectionBase();
+
+
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_24_PROLOG
+#define FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_SPARSE_DATA \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_ACCESSORS \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_INCLASS_NO_PURE_DECLS \
+	FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h_27_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> PROJECTOVERTIME_API UClass* StaticClass<class USelectionBase>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_yurir_OneDrive_Documentos_GitHub_Project_Overtime_ProjectOvertime_Source_ProjectOvertime_SelectionBase_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

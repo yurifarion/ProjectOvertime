@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f96989b5d533eef7cd51063e36ecb36d04098954b88bde968e32c9a7d4af58b
-size 202
+// Compiler: 14.36.32542
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/Core/SharedPCH.Core.Cpp17.h"
