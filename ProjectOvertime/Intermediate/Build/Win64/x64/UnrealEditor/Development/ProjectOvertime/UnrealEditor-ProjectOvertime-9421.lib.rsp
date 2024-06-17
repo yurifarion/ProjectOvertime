@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7aa9af666517cc668f790e8ae5100f5b2565f6fee557bd8c7d2a67a66fc6060c
-size 2735
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectOvertime-9421.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\MyActorComponent.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\MyCharacter.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\MyCharacterr.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.init.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\RotatingComponent.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\TestComponent.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\MyActorComponent.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\MyCharacter.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\MyCharacterr.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\RotatingComponent.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\TestComponent.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\Default.rc2.res"
+/OUT:"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\UnrealEditor-ProjectOvertime-9421.lib"

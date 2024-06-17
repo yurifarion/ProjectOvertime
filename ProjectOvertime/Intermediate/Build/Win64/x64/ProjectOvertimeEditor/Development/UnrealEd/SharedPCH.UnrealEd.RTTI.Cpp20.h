@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6108fc2dbff4913c79e2a24eed7b2860c991fd1017bfe0ec995970cdc10589b
-size 306
+// PCH for Editor/UnrealEd/Public/UnrealEdSharedPCH.h
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.RTTI.Cpp20.h"
+#include "Editor/UnrealEd/Public/UnrealEdSharedPCH.h"

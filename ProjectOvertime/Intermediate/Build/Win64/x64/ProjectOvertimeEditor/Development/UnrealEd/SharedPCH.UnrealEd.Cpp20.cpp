@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6830783efd4b890c68ddee544a0f069580e6c137f4e2c2fbc567f8c97ce786b
-size 210
+// Compiler: 14.36.32542
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h"

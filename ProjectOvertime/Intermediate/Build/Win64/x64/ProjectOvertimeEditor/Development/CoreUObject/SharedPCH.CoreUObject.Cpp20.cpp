@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e77e926a9eaef88116bc9eb912c494f753275269aa2372b4f061e08bb156a95
-size 216
+// Compiler: 14.36.32542
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h"

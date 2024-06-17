@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b42e41cf3d1671e3811ba4cdc729375033d0292d8ad5aa91a1c46bf0e83f76d0
-size 215
+// Compiler: 14.36.32542
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h"

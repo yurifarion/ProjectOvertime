@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62e0e2d29fbd72e6da0d09b67a388f073a2c56f5cd07d72fbb8d72c577ea30ee
-size 837
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectOvertime-5855.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\Default.rc2.res"
+/OUT:"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\UnrealEditor-ProjectOvertime-5855.lib"

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:118ac6e8b148cbccaef9b72d8aa8aad72826ae0cedda7384116e0315d9a6d481
-size 1063
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\source\\projectovertime\\testcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\x64\\projectovertimeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectovertime\\definitions.projectovertime.h",
+            "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\source\\projectovertime\\testcomponent.h",
+            "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\unrealeditor\\inc\\projectovertime\\uht\\testcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

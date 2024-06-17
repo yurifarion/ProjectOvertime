@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2dead902ad6ebb622d311b25290b718ebf28d7578d73d0f22a0df39c2bb52fa8
-size 1707
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectOvertime-0026.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.init.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SelectionBase.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SettingsWidget.gen.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SelectionBase.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SettingsWidget.cpp.obj"
+"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\Default.rc2.res"
+/OUT:"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\UnrealEditor-ProjectOvertime-0026.lib"

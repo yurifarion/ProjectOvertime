@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:389cf963c1683f2b2294f88608e830777781f3b6356b505070a45ef616f45adb
-size 285
+// PCH for Runtime/Slate/Public/SlateSharedPCH.h
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/Slate/SharedDefinitions.Slate.Cpp20.h"
+#include "Runtime/Slate/Public/SlateSharedPCH.h"

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:218ab9a27a11f0298bbd6ac04aa98f092a1478c4a2914124360bd26a1f3f90ae
-size 1120
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\unrealeditor\\inc\\projectovertime\\uht\\myactorcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\x64\\projectovertimeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectovertime\\definitions.projectovertime.h",
+            "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\source\\projectovertime\\myactorcomponent.h",
+            "c:\\users\\yurir\\onedrive\\documentos\\github\\project_overtime\\projectovertime\\intermediate\\build\\win64\\unrealeditor\\inc\\projectovertime\\uht\\myactorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

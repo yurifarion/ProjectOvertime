@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80aef92f56e92157fdd79d034738fb30170ee4402209166d6dec684c1afd7f6c
-size 207
+// Compiler: 14.36.32542
+#include "C:/Users/yurir/OneDrive/Documentos/GitHub/Project_Overtime/ProjectOvertime/Intermediate/Build/Win64/x64/ProjectOvertimeEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h"

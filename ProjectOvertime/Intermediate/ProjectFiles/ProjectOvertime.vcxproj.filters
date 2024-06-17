@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34425cb487ea794337a2a184bd2cf2aaaba672d135a2148c31cdab17ef8a367c
-size 2317
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectOvertime.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectOvertime.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectOvertimeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectOvertime">
+      <UniqueIdentifier>{D42FB864-EF41-38E2-82DB-EA80DE3DA7B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectOvertime\ProjectOvertime.Build.cs">
+      <Filter>Source\ProjectOvertime</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectOvertime\ProjectOvertime.cpp">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectOvertime\ProjectOvertime.h">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectOvertime\SelectionBase.cpp">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectOvertime\SelectionBase.h">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectOvertime\SettingsWidget.cpp">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectOvertime\SettingsWidget.h">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Framerate.h">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
