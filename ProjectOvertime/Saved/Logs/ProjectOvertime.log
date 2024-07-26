@@ -1502,3 +1502,618 @@ Problem assigning string '' to property 'Category' on row '14' : In asset 'None'
 [2024.07.26-08.52.17:601][583]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.26-08.52.17:602][583]LogContentValidation: Display: Validating /Game/Core/Blueprints/Actors/BP_SearchObject.BP_SearchObject_C /Game/Scenes/Demo/Demo.Demo:PersistentLevel.BP_SearchObject_C_UAID_54BF64519455370C02_1747969664
 [2024.07.26-08.52.17:602][583]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG
+[2024.07.26-08.53.33:794][794]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Res/Sequencer/BlackoutSequencer.BlackoutSequencer
+[2024.07.26-08.53.33:884][794]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-08.53.34:400][794]LogSlate: Took 0.007918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.26-08.53.38:294][ 23]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-08.53.38:434][ 23]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-08.53.41:153][155]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.07.26-08.53.48:893][613]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2024.07.26-08.53.48:945][613]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2024.07.26-08.53.48:957][614]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2024.07.26-08.54.00:769][323]LogContentBrowser: Attempting asset rename: NewLevelSequence -> ChairMovement
+[2024.07.26-08.54.00:773][323]LogContentBrowser: End creating deferred item NewLevelSequence
+[2024.07.26-08.54.03:893][502]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.54.03:893][502]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.54.03:895][502]LogActorFactory: Actor Factory spawned LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement as actor: LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_0
+[2024.07.26-08.54.03:896][502]LogActorFactory: Actor Factory spawned LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement as actor: LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_0
+[2024.07.26-08.54.06:937][678]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.54.07:018][678]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-08.54.10:845][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.54.10:888][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.55.41:732][109]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-08.55.41:911][109]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-08.55.51:611][668]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.07.26-08.55.51:611][668]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.07.26-08.55.51:612][668]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/Demo/Demo.Demo:PersistentLevel.TriggerBox_0
+[2024.07.26-08.55.51:612][668]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/Demo/Demo.Demo:PersistentLevel.TriggerBox_0
+[2024.07.26-08.55.52:775][737]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.07.26-08.55.52:775][737]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.07.26-08.55.52:777][737]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/Demo/Demo.Demo:PersistentLevel.TriggerBox_UAID_54BF64519455850C02_1995615585
+[2024.07.26-08.55.52:778][737]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Scenes/Demo/Demo.Demo:PersistentLevel.TriggerBox_UAID_54BF64519455850C02_1995615585
+[2024.07.26-08.56.34:697][204]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.26-08.56.34:777][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.56.34:830][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.56.34:868][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.56.34:912][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.56.34:946][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.56.35:617][248]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Scenes/Demo/Demo.Demo:PersistentLevel.Demo
+[2024.07.26-08.56.35:623][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-08.56.35:623][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-08.56.35:643][248]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.07.26-08.56.37:618][248]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.07.26-08.56.37:659][248]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.042271s (0.042271s overbudget)
+[2024.07.26-08.56.37:745][248]LogSlate: Took 0.005930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.26-08.56.38:045][249]LogAutomationController: Ignoring very large delta of 2.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.26-08.59.30:948][156]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.59.30:948][156]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.59.30:949][156]LogActorFactory: Actor Factory spawned LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement as actor: LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_1
+[2024.07.26-08.59.30:949][156]LogActorFactory: Actor Factory spawned LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement as actor: LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_1
+[2024.07.26-08.59.34:585][373]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.59.34:585][373]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-08.59.34:589][373]LogActorFactory: Actor Factory spawned LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement as actor: LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_UAID_54BF64519455860C02_1143683762
+[2024.07.26-08.59.34:589][373]LogActorFactory: Actor Factory spawned LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement as actor: LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_UAID_54BF64519455860C02_1143683762
+[2024.07.26-09.00.23:612][138]BlueprintLog: New page: Compile Demo
+[2024.07.26-09.00.23:684][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.07.26-09.00.25:746][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.07.26-09.00.25:761][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-09.00.25:813][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Demo/Demo" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Scenes/Demo/Demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.26-09.00.25:912][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.07.26-09.00.26:200][246]LogSavePackage: Moving output files for package: /Game/Scenes/Demo/Demo
+[2024.07.26-09.00.26:201][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/DemoBA0D1D114E8896E258B17EB63D70417C.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Scenes/Demo/Demo.umap'
+[2024.07.26-09.00.26:233][246]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7
+/Game/__ExternalActors__/Scenes/Demo/Demo/D/IS/30IGSJMPIDGO1O2NP0G5VT
+/Game/__ExternalActors__/Scenes/Demo/Demo/5/6U/Q0NDWXUHBL9Z5OPFWHGFSK
+[2024.07.26-09.00.26:233][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-09.00.26:242][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7
+[2024.07.26-09.00.26:242][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/2Z78JEBSRQIJRX4AHEHLD75EAC60C24713BD79CBD502971E45B896.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7.uasset'
+[2024.07.26-09.00.26:294][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/D/IS/30IGSJMPIDGO1O2NP0G5VT
+[2024.07.26-09.00.26:295][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/30IGSJMPIDGO1O2NP0G5VT7E9AB3634E97F216198561963F3471B5.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/D/IS/30IGSJMPIDGO1O2NP0G5VT.uasset'
+[2024.07.26-09.00.26:307][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/5/6U/Q0NDWXUHBL9Z5OPFWHGFSK
+[2024.07.26-09.00.26:307][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/Q0NDWXUHBL9Z5OPFWHGFSKC915B22245608C51F167F781CCD0171A.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/5/6U/Q0NDWXUHBL9Z5OPFWHGFSK.uasset'
+[2024.07.26-09.00.26:350][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 283 ms)
+[2024.07.26-09.00.26:350][246]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7
+/Game/__ExternalActors__/Scenes/Demo/Demo/D/IS/30IGSJMPIDGO1O2NP0G5VT
+/Game/__ExternalActors__/Scenes/Demo/Demo/5/6U/Q0NDWXUHBL9Z5OPFWHGFSK
+[2024.07.26-09.00.26:351][246]LogFileHelpers: Saving map 'Demo' took 0.541
+[2024.07.26-09.00.26:360][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7
+[2024.07.26-09.00.26:361][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/2Z78JEBSRQIJRX4AHEHLD7D268729745138922AA4EB2ACB24165F8.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7.uasset'
+[2024.07.26-09.00.26:370][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/D/IS/30IGSJMPIDGO1O2NP0G5VT
+[2024.07.26-09.00.26:372][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/30IGSJMPIDGO1O2NP0G5VT264794BE42210C651CA55A85A7909650.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/D/IS/30IGSJMPIDGO1O2NP0G5VT.uasset'
+[2024.07.26-09.00.26:382][246]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/5/6U/Q0NDWXUHBL9Z5OPFWHGFSK
+[2024.07.26-09.00.26:384][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/Q0NDWXUHBL9Z5OPFWHGFSK8B21E26A4C7E64C0E58A00977FFE2714.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/5/6U/Q0NDWXUHBL9Z5OPFWHGFSK.uasset'
+[2024.07.26-09.00.26:387][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Res/Sequencer/ChairMovement" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Res/Sequencer/ChairMovement.uasset" SILENT=true
+[2024.07.26-09.00.26:423][246]LogSavePackage: Moving output files for package: /Game/Res/Sequencer/ChairMovement
+[2024.07.26-09.00.26:423][246]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/ChairMovement850838B04416B53D061776A9FA7EAB47.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Res/Sequencer/ChairMovement.uasset'
+[2024.07.26-09.00.26:434][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 671 ms (total: 955 ms)
+[2024.07.26-09.00.26:438][246]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.26-09.00.26:438][246]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Demo/Demo.Demo
+[2024.07.26-09.00.26:438][246]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_UAID_54BF64519455860C02_1143683762
+[2024.07.26-09.00.26:438][246]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.StaticMeshActor_UAID_54BF6451945595DF01_1788975917
+[2024.07.26-09.00.26:438][246]LogContentValidation: Display: Validating /Script/Engine.TriggerBox /Game/Scenes/Demo/Demo.Demo:PersistentLevel.TriggerBox_UAID_54BF64519455850C02_1995615585
+[2024.07.26-09.00.26:438][246]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-09.00.27:928][333]LogSlate: Window 'Demo' being destroyed
+[2024.07.26-09.00.27:935][333]LogSlate: Window 'Demo' being destroyed
+[2024.07.26-09.00.27:965][333]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-09.00.27:965][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.00.29:303][406]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.26-09.00.29:333][406]LogContentBundle: [Demo(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.26-09.00.29:333][406]LogWorldPartition: Display: GenerateStreaming for 'Demo' started...
+[2024.07.26-09.00.29:335][406]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.BlackOutTriggerBox 
+[2024.07.26-09.00.29:336][406]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.BP_Door7 
+[2024.07.26-09.00.29:336][406]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.ChairMovementTriggerBox 
+[2024.07.26-09.00.29:494][406]LogWorldPartition: Display: GenerateStreaming for 'Demo' took 159 ms (total: 603 ms)
+[2024.07.26-09.00.29:495][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-09.00.29:495][406]PIE: New page: PIE session: Demo (2024/07/27 3:00:29)
+[2024.07.26-09.00.29:495][406]LogPlayLevel: Creating play world package: /Game/Scenes/Demo/UEDPIE_0_Demo
+[2024.07.26-09.00.29:513][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018141s)
+[2024.07.26-09.00.29:514][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Demo/Demo.Demo to /Game/Scenes/Demo/UEDPIE_0_Demo.Demo (0.018174s)
+[2024.07.26-09.00.29:531][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.26-09.00.29:535][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-09.00.29:536][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-09.00.29:536][406]LogAIModule: Creating AISystem for world Demo
+[2024.07.26-09.00.29:537][406]LogWorldPartition: ULevel::OnLevelLoaded(Demo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.26-09.00.29:537][406]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.26-09.00.29:537][406]LogWorldPartition: UWorldPartition::Initialize : World = Demo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.26-09.00.29:537][406]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.26-09.00.29:543][406]LogContentBundle: [Demo(Standalone)] Creating new contrainer.
+[2024.07.26-09.00.29:543][406]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 5.88 sec)
+[2024.07.26-09.00.29:543][406]LogPlayLevel: PIE: World Init took: (0.007591s)
+[2024.07.26-09.00.29:543][406]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-09.00.29:543][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-09.00.29:543][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-09.00.29:544][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-09.00.29:544][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-09.00.29:544][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-09.00.29:546][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-09.00.29:567][406]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.07.26-09.00.29:568][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-09.00.29:568][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-09.00.29:568][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-09.00.29:569][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.26-09.00.29:569][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.07.26-09.00.29:571][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.26-09.00.29:571][406]LogInit: FAudioDevice initialized with ID 3.
+[2024.07.26-09.00.29:571][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.26-09.00.29:571][406]LogAudio: Display: Audio Device (ID: 3) registered with world 'Demo'.
+[2024.07.26-09.00.29:571][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.26-09.00.29:571][406]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.07.26-09.00.29:633][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-09.00.29:633][406]LogLoad: Game class is 'MainGameMode_C'
+[2024.07.26-09.00.29:635][406]LogWorld: Bringing World /Game/Scenes/Demo/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2024.07.26-18.00.29
+[2024.07.26-09.00.29:636][406]LogWorld: Bringing up level for play took: 0.001813
+[2024.07.26-09.00.29:639][406]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.07.26-09.00.29:641][406]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.07.26-09.00.29:641][406]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-17881.832 Y=-15546.325 Z=92.181,P=0.000000 Y=179.999997 R=-0.000000
+[2024.07.26-09.00.29:651][406]LogStreaming: Display: FlushAsyncLoading(): 240 QueuedPackages, 0 AsyncPackages
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/XH/9M72OYEZ3FEO7R28AAIMLG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/9Q/RKUVSX5RLGTWH48NJCVYOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/6T/846XE5UPJ181A6ZJMLTDXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/55/BANXCPQQ0RKB6388K0RFCM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/WB/JCQE2436H6SBLQM8QLXBBD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/RW/HJRHYFVTOTEYQ4LBXUJV2K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/LH/Z1P7S5YSPW3U9WR5QHG86R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DF/96MPFMQ1SNXWNM3AMGRUI6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:755][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/VB/0PDWS04SX3ZC99V8Q7DFYS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/RJ/6HTSPB6BYP6MXAKHJZH4B7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/KP/RY1NGPQSP6LJ4L6LC4G0Q5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/AS/TOYRTW9I24GKV10MR64OUS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/NO/VYWMJV1GT1T3KCRP3NJE4B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/CC/VBLV75ZWDAWYQIVLL1VL8K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/Q3/E4LYPD6LU5NXXD546TPMFW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/XB/RHM53B2AUHT374Z7913JVC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/UA/KH492JZ630SIWWKNAJRJC4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/HP/AGMIXXRBULXWUE7LGMJYPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/YC/Z7F2KPDUOQHDCGUHS091JT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/NR/6WALWYKUHVLEZHV4BN0ZFG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/5/LG/USV8WKXOJ34YOQJ2TN96CK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/X6/K8CYNSZ3WYFYJMRM2YS2N1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/90NRQN0D9JJ242S41QDK0N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/SWOFL0EWBEFVQF54I8DIN1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/70/C9BRPCFRPKOLTAMMVDIP0I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/44/Q4K7AUKG86K606TVBSOBRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/PB/8NKQFQFDQGZ70JAI6JN70K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/97/OQORZSGGTDS1MK4HDVQLEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/43/O1KZ7HUC5D9U5F40QWJPGE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/2/DT/65OK5PIGADAWJRS7NDOV1V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/TU/D1O12OHIQL0THBVMU27HSE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/5G/RSTLGFB7NUZ67QEKJG011L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/40/66CERBLRTFKQ0OMGJVW8LN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/0W/7N6FMOCFQUE2U834B7MK4H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:756][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/JA/L4VTQXI67ZGR1XOCRQELU9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:757][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.00.29:757][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.00.29:757][406]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/32/J4Q48W6MCKO8GPPQ3QR0GM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.00.29:804][406]PIE: Server logged in
+[2024.07.26-09.00.29:807][406]PIE: Play in editor total start time 0.473 seconds.
+[2024.07.26-09.00.29:991][406]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.07.26-09.00.30:007][407]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.07.26-09.00.31:956][478]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF645194552CDB01_1693081167] The door is locked
+[2024.07.26-09.00.32:632][505]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF645194552CDB01_1693081167] The door is locked
+[2024.07.26-09.00.34:108][564]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.26-09.00.34:108][564]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.07.26-09.00.34:132][565]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_PauseMenu_C_0]
+[2024.07.26-09.00.34:132][565]LogUIActionRouter: Display: UIInputConfig being changed. bForceRefresh: 1
+[2024.07.26-09.00.34:132][565]LogUIActionRouter: Display: 	InputMode: Previous (None), New (ECommonInputMode::Menu)
+[2024.07.26-09.00.34:132][565]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.07.26-09.00.34:132][565]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_PauseMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.00.35:450][617]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_DeveloperMenu_C_0]
+[2024.07.26-09.00.35:450][617]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_DeveloperMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.00.38:366][732]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_InGame_C_0.WidgetTree_0.WBP_DeveloperMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.07.26-09.00.38:396][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.07.26-09.00.38:398][732]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.00.38:553][739]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_PauseMenu_C_0]
+[2024.07.26-09.00.38:553][739]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_PauseMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.00.39:484][776]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_InGame_C_0.WidgetTree_0.WBP_PauseMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.07.26-09.00.39:484][776]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.26-09.00.39:484][776]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.26-09.00.39:507][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.07.26-09.00.39:508][776]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.00.40:014][797]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF645194552CDB01_1693081167] Door Unlocked
+[2024.07.26-09.00.43:801][917]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF6451945596DF01_1192750117] Door Unlocked
+[2024.07.26-09.00.50:672][162]LogBlueprintUserMessages: [AC_Inventory] New Item Added
+[2024.07.26-09.00.52:722][235]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CapturePermanently_IncludingInitialMouseDown
+[2024.07.26-09.00.59:410][515]LogBlueprintUserMessages: [Demo_C_0] Chair Movement
+[2024.07.26-09.01.06:004][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-09.01.06:004][784]LogWorld: BeginTearingDown for /Game/Scenes/Demo/UEDPIE_0_Demo
+[2024.07.26-09.01.06:019][784]LogSlate: Window 'ProjectOvertime Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.26-09.01.06:030][784]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-09.01.06:031][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.01.06:032][784]LogContentBundle: [Demo(Standalone)] Deleting container.
+[2024.07.26-09.01.06:036][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-09.01.06:047][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.01.06:073][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.26-09.01.06:073][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.26-09.01.06:073][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.26-09.01.06:076][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.26-09.01.06:098][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.07.26-09.01.06:183][785]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.07.26-09.01.08:097][891]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Res/Sequencer/ChairMovement.ChairMovement
+[2024.07.26-09.01.08:226][891]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-09.01.11:036][ 26]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-09.01.11:166][ 26]LogSlate: Window 'Sequencer' being destroyed
+[2024.07.26-09.01.23:851][760]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.26-09.01.23:890][760]LogContentBundle: [Demo(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.26-09.01.23:890][760]LogWorldPartition: Display: GenerateStreaming for 'Demo' started...
+[2024.07.26-09.01.23:893][760]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.BlackOutTriggerBox 
+[2024.07.26-09.01.23:893][760]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.BP_Door7 
+[2024.07.26-09.01.23:893][760]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.ChairMovementTriggerBox 
+[2024.07.26-09.01.24:046][760]LogWorldPartition: Display: GenerateStreaming for 'Demo' took 155 ms (total: 758 ms)
+[2024.07.26-09.01.24:047][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-09.01.24:047][760]PIE: New page: PIE session: Demo (2024/07/27 3:01:24)
+[2024.07.26-09.01.24:047][760]LogPlayLevel: Creating play world package: /Game/Scenes/Demo/UEDPIE_0_Demo
+[2024.07.26-09.01.24:066][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018795s)
+[2024.07.26-09.01.24:066][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Demo/Demo.Demo to /Game/Scenes/Demo/UEDPIE_0_Demo.Demo (0.018828s)
+[2024.07.26-09.01.24:089][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.26-09.01.24:090][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-09.01.24:090][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-09.01.24:090][760]LogAIModule: Creating AISystem for world Demo
+[2024.07.26-09.01.24:092][760]LogWorldPartition: ULevel::OnLevelLoaded(Demo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.26-09.01.24:092][760]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.26-09.01.24:092][760]LogWorldPartition: UWorldPartition::Initialize : World = Demo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.26-09.01.24:092][760]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.26-09.01.24:097][760]LogContentBundle: [Demo(Standalone)] Creating new contrainer.
+[2024.07.26-09.01.24:097][760]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 5.89 sec)
+[2024.07.26-09.01.24:097][760]LogPlayLevel: PIE: World Init took: (0.006831s)
+[2024.07.26-09.01.24:097][760]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-09.01.24:097][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-09.01.24:097][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-09.01.24:097][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-09.01.24:097][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-09.01.24:097][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-09.01.24:099][760]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-09.01.24:119][760]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.07.26-09.01.24:120][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-09.01.24:120][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-09.01.24:120][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-09.01.24:120][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.26-09.01.24:120][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.26-09.01.24:122][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.26-09.01.24:123][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.26-09.01.24:123][760]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.26-09.01.24:123][760]LogAudio: Display: Audio Device (ID: 4) registered with world 'Demo'.
+[2024.07.26-09.01.24:123][760]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.26-09.01.24:123][760]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.07.26-09.01.24:177][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-09.01.24:177][760]LogLoad: Game class is 'MainGameMode_C'
+[2024.07.26-09.01.24:180][760]LogWorld: Bringing World /Game/Scenes/Demo/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2024.07.26-18.01.24
+[2024.07.26-09.01.24:180][760]LogWorld: Bringing up level for play took: 0.002351
+[2024.07.26-09.01.24:183][760]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.07.26-09.01.24:185][760]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.07.26-09.01.24:185][760]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-17881.832 Y=-15546.325 Z=92.181,P=0.000000 Y=179.999997 R=-0.000000
+[2024.07.26-09.01.24:188][760]LogStreaming: Display: FlushAsyncLoading(): 240 QueuedPackages, 0 AsyncPackages
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/XH/9M72OYEZ3FEO7R28AAIMLG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/9Q/RKUVSX5RLGTWH48NJCVYOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/6T/846XE5UPJ181A6ZJMLTDXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/55/BANXCPQQ0RKB6388K0RFCM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/WB/JCQE2436H6SBLQM8QLXBBD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/RW/HJRHYFVTOTEYQ4LBXUJV2K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/LH/Z1P7S5YSPW3U9WR5QHG86R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DF/96MPFMQ1SNXWNM3AMGRUI6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/VB/0PDWS04SX3ZC99V8Q7DFYS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/RJ/6HTSPB6BYP6MXAKHJZH4B7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/KP/RY1NGPQSP6LJ4L6LC4G0Q5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/AS/TOYRTW9I24GKV10MR64OUS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/NO/VYWMJV1GT1T3KCRP3NJE4B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/CC/VBLV75ZWDAWYQIVLL1VL8K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/Q3/E4LYPD6LU5NXXD546TPMFW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/XB/RHM53B2AUHT374Z7913JVC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/UA/KH492JZ630SIWWKNAJRJC4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/HP/AGMIXXRBULXWUE7LGMJYPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/YC/Z7F2KPDUOQHDCGUHS091JT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/NR/6WALWYKUHVLEZHV4BN0ZFG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/5/LG/USV8WKXOJ34YOQJ2TN96CK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/X6/K8CYNSZ3WYFYJMRM2YS2N1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/90NRQN0D9JJ242S41QDK0N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/SWOFL0EWBEFVQF54I8DIN1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/70/C9BRPCFRPKOLTAMMVDIP0I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/44/Q4K7AUKG86K606TVBSOBRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/PB/8NKQFQFDQGZ70JAI6JN70K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/97/OQORZSGGTDS1MK4HDVQLEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:296][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/43/O1KZ7HUC5D9U5F40QWJPGE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/2/DT/65OK5PIGADAWJRS7NDOV1V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/TU/D1O12OHIQL0THBVMU27HSE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/5G/RSTLGFB7NUZ67QEKJG011L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/40/66CERBLRTFKQ0OMGJVW8LN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/0W/7N6FMOCFQUE2U834B7MK4H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/JA/L4VTQXI67ZGR1XOCRQELU9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.24:297][760]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/32/J4Q48W6MCKO8GPPQ3QR0GM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.24:349][760]PIE: Server logged in
+[2024.07.26-09.01.24:351][760]PIE: Play in editor total start time 0.46 seconds.
+[2024.07.26-09.01.24:563][760]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.07.26-09.01.24:579][761]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.07.26-09.01.25:873][803]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.26-09.01.25:873][803]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.07.26-09.01.25:897][804]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_PauseMenu_C_0]
+[2024.07.26-09.01.25:897][804]LogUIActionRouter: Display: UIInputConfig being changed. bForceRefresh: 1
+[2024.07.26-09.01.25:897][804]LogUIActionRouter: Display: 	InputMode: Previous (None), New (ECommonInputMode::Menu)
+[2024.07.26-09.01.25:897][804]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.07.26-09.01.25:897][804]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_PauseMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.01.27:157][854]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_DeveloperMenu_C_0]
+[2024.07.26-09.01.27:157][854]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_DeveloperMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.01.29:051][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_2.WBP_InGame_C_0.WidgetTree_0.WBP_DeveloperMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.07.26-09.01.29:082][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.07.26-09.01.29:083][929]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.01.29:243][936]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_PauseMenu_C_0]
+[2024.07.26-09.01.29:243][936]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_PauseMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.01.29:885][962]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_2.WBP_InGame_C_0.WidgetTree_0.WBP_PauseMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.07.26-09.01.29:885][962]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.26-09.01.29:885][962]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.26-09.01.29:908][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.07.26-09.01.29:910][962]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.01.30:670][993]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF645194552CDB01_1693081167] Door Unlocked
+[2024.07.26-09.01.34:248][105]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF6451945596DF01_1192750117] Door Unlocked
+[2024.07.26-09.01.39:659][297]LogBlueprintUserMessages: [AC_Inventory] New Item Added
+[2024.07.26-09.01.41:631][367]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CapturePermanently_IncludingInitialMouseDown
+[2024.07.26-09.01.43:143][428]LogBlueprintUserMessages: [Demo_C_0] Chair Movement
+[2024.07.26-09.01.55:404][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-09.01.55:404][901]LogWorld: BeginTearingDown for /Game/Scenes/Demo/UEDPIE_0_Demo
+[2024.07.26-09.01.55:420][901]LogSlate: Window 'ProjectOvertime Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.26-09.01.55:436][901]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-09.01.55:437][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.01.55:437][901]LogContentBundle: [Demo(Standalone)] Deleting container.
+[2024.07.26-09.01.55:440][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-09.01.55:447][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.01.55:474][901]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.26-09.01.55:474][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.26-09.01.55:475][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.26-09.01.55:492][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.07.26-09.01.55:618][902]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.07.26-09.01.59:187][113]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.07.26-09.01.59:222][113]LogContentBundle: [Demo(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.26-09.01.59:222][113]LogWorldPartition: Display: GenerateStreaming for 'Demo' started...
+[2024.07.26-09.01.59:225][113]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.BlackOutTriggerBox 
+[2024.07.26-09.01.59:225][113]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.BP_Door7 
+[2024.07.26-09.01.59:225][113]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.ChairMovementTriggerBox 
+[2024.07.26-09.01.59:375][113]LogWorldPartition: Display: GenerateStreaming for 'Demo' took 152 ms (total: 911 ms)
+[2024.07.26-09.01.59:376][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.26-09.01.59:376][113]PIE: New page: PIE session: Demo (2024/07/27 3:01:59)
+[2024.07.26-09.01.59:376][113]LogPlayLevel: Creating play world package: /Game/Scenes/Demo/UEDPIE_0_Demo
+[2024.07.26-09.01.59:394][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018027s)
+[2024.07.26-09.01.59:394][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Demo/Demo.Demo to /Game/Scenes/Demo/UEDPIE_0_Demo.Demo (0.018058s)
+[2024.07.26-09.01.59:412][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.26-09.01.59:415][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.26-09.01.59:415][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.26-09.01.59:415][113]LogAIModule: Creating AISystem for world Demo
+[2024.07.26-09.01.59:416][113]LogWorldPartition: ULevel::OnLevelLoaded(Demo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.26-09.01.59:416][113]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.26-09.01.59:416][113]LogWorldPartition: UWorldPartition::Initialize : World = Demo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.26-09.01.59:416][113]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.26-09.01.59:421][113]LogContentBundle: [Demo(Standalone)] Creating new contrainer.
+[2024.07.26-09.01.59:421][113]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 5.90 sec)
+[2024.07.26-09.01.59:421][113]LogPlayLevel: PIE: World Init took: (0.006457s)
+[2024.07.26-09.01.59:421][113]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.26-09.01.59:421][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.26-09.01.59:421][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.26-09.01.59:422][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.26-09.01.59:422][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.26-09.01.59:422][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.26-09.01.59:423][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.26-09.01.59:444][113]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.07.26-09.01.59:444][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.26-09.01.59:444][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.26-09.01.59:444][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.26-09.01.59:445][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.26-09.01.59:445][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.26-09.01.59:448][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.26-09.01.59:448][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.26-09.01.59:448][113]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.26-09.01.59:448][113]LogAudio: Display: Audio Device (ID: 5) registered with world 'Demo'.
+[2024.07.26-09.01.59:448][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.26-09.01.59:448][113]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.07.26-09.01.59:496][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-09.01.59:496][113]LogLoad: Game class is 'MainGameMode_C'
+[2024.07.26-09.01.59:498][113]LogWorld: Bringing World /Game/Scenes/Demo/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2024.07.26-18.01.59
+[2024.07.26-09.01.59:499][113]LogWorld: Bringing up level for play took: 0.001557
+[2024.07.26-09.01.59:501][113]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.07.26-09.01.59:504][113]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.07.26-09.01.59:505][113]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-17881.832 Y=-15546.325 Z=92.181,P=0.000000 Y=179.999997 R=-0.000000
+[2024.07.26-09.01.59:507][113]LogStreaming: Display: FlushAsyncLoading(): 240 QueuedPackages, 0 AsyncPackages
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/XH/9M72OYEZ3FEO7R28AAIMLG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/9Q/RKUVSX5RLGTWH48NJCVYOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/6T/846XE5UPJ181A6ZJMLTDXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/55/BANXCPQQ0RKB6388K0RFCM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/WB/JCQE2436H6SBLQM8QLXBBD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/RW/HJRHYFVTOTEYQ4LBXUJV2K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/LH/Z1P7S5YSPW3U9WR5QHG86R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DF/96MPFMQ1SNXWNM3AMGRUI6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/VB/0PDWS04SX3ZC99V8Q7DFYS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/RJ/6HTSPB6BYP6MXAKHJZH4B7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/KP/RY1NGPQSP6LJ4L6LC4G0Q5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/AS/TOYRTW9I24GKV10MR64OUS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/NO/VYWMJV1GT1T3KCRP3NJE4B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/CC/VBLV75ZWDAWYQIVLL1VL8K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/Q3/E4LYPD6LU5NXXD546TPMFW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/XB/RHM53B2AUHT374Z7913JVC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/UA/KH492JZ630SIWWKNAJRJC4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/HP/AGMIXXRBULXWUE7LGMJYPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/YC/Z7F2KPDUOQHDCGUHS091JT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/NR/6WALWYKUHVLEZHV4BN0ZFG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/5/LG/USV8WKXOJ34YOQJ2TN96CK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/X6/K8CYNSZ3WYFYJMRM2YS2N1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/90NRQN0D9JJ242S41QDK0N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/SWOFL0EWBEFVQF54I8DIN1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/70/C9BRPCFRPKOLTAMMVDIP0I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/44/Q4K7AUKG86K606TVBSOBRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/PB/8NKQFQFDQGZ70JAI6JN70K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/97/OQORZSGGTDS1MK4HDVQLEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/43/O1KZ7HUC5D9U5F40QWJPGE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/2/DT/65OK5PIGADAWJRS7NDOV1V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/TU/D1O12OHIQL0THBVMU27HSE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/5G/RSTLGFB7NUZ67QEKJG011L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/40/66CERBLRTFKQ0OMGJVW8LN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/0W/7N6FMOCFQUE2U834B7MK4H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/JA/L4VTQXI67ZGR1XOCRQELU9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.07.26-09.01.59:610][113]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/32/J4Q48W6MCKO8GPPQ3QR0GM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.07.26-09.01.59:658][113]PIE: Server logged in
+[2024.07.26-09.01.59:661][113]PIE: Play in editor total start time 0.438 seconds.
+[2024.07.26-09.01.59:821][113]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.07.26-09.01.59:837][114]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.07.26-09.02.01:029][161]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.26-09.02.01:029][161]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.07.26-09.02.01:052][162]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_PauseMenu_C_0]
+[2024.07.26-09.02.01:052][162]LogUIActionRouter: Display: UIInputConfig being changed. bForceRefresh: 1
+[2024.07.26-09.02.01:052][162]LogUIActionRouter: Display: 	InputMode: Previous (None), New (ECommonInputMode::Menu)
+[2024.07.26-09.02.01:052][162]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.07.26-09.02.01:052][162]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_PauseMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.02.02:435][217]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_DeveloperMenu_C_0]
+[2024.07.26-09.02.02:435][217]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_DeveloperMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.02.04:280][290]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_InGame_C_0.WidgetTree_0.WBP_DeveloperMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.07.26-09.02.04:308][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.07.26-09.02.04:311][290]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.02.04:467][297]LogUIActionRouter: Display: Applying input config for leaf-most node [WBP_PauseMenu_C_0]
+[2024.07.26-09.02.04:467][297]LogUIActionRouter: Display: [User 0] No focus target for leaf-most node [WBP_PauseMenu_C_0], and the widget isn't focusable - focusing the game viewport.
+[2024.07.26-09.02.05:240][328]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_InGame_C_0.WidgetTree_0.WBP_PauseMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.07.26-09.02.05:240][328]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.26-09.02.05:240][328]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.26-09.02.05:265][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.26-09.02.05:266][328]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.02.05:781][349]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF645194552CDB01_1693081167] Door Unlocked
+[2024.07.26-09.02.11:716][529]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.26-09.02.13:518][590]LogBlueprintUserMessages: [AC_Inventory] New Item Added
+[2024.07.26-09.02.15:223][648]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CapturePermanently_IncludingInitialMouseDown
+[2024.07.26-09.02.18:078][729]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.07.26-09.02.18:881][750]LogBlueprintUserMessages: [AC_Inventory] New Item Added
+[2024.07.26-09.02.20:690][797]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CapturePermanently_IncludingInitialMouseDown
+[2024.07.26-09.02.23:507][875]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF6451945544DF01_1569493728] Door Unlocked
+[2024.07.26-09.02.23:512][875]LogBlueprintUserMessages: [AC_Inventory] Remove Item
+[2024.07.26-09.02.24:439][900]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.26-09.02.32:581][234]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.07.26-09.02.33:035][259]LogBlueprintUserMessages: [AC_Inventory] New Item Added
+[2024.07.26-09.02.34:894][355]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CapturePermanently_IncludingInitialMouseDown
+[2024.07.26-09.02.39:161][524]LogBlueprintUserMessages: [Demo_C_0] Blackout
+[2024.07.26-09.02.39:168][524]LogBlueprintUserMessages: [BP_Door_C_UAID_54BF6451945596DF01_1192750117] Door Unlocked
+[2024.07.26-09.03.06:377][128]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.03.09:146][292]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.07.26-09.03.10:755][387]LogBlueprintUserMessages: [AC_Inventory] New Item Added
+[2024.07.26-09.03.12:842][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CapturePermanently_IncludingInitialMouseDown
+[2024.07.26-09.03.14:863][628]LogBlueprintUserMessages: [Demo_C_0] Chair Movement
+[2024.07.26-09.03.35:748][857]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.26-09.03.37:627][953]LogCharacterMovement: BP_FirstPersonMovement_C_0 is stuck and failed to move! Velocity: X=19.62 Y=-26.30 Z=0.00 Location: X=-19637.06 Y=-15734.35 Z=90.66 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:8.321 Actor:StaticMeshActor_UAID_54BF645194552BDB01_1310819996 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2024.07.26-09.03.38:628][ 12]LogCharacterMovement: BP_FirstPersonMovement_C_0 is stuck and failed to move! Velocity: X=174.65 Y=-309.27 Z=0.00 Location: X=-19645.40 Y=-15776.90 Z=90.15 Normal: X=-0.99 Y=0.08 Z=0.08 PenetrationDepth:1.812 Actor:StaticMeshActor_UAID_54BF645194552BDB01_1310819996 Component:StaticMeshComponent0 BoneName:None (26 other events since notify)
+[2024.07.26-09.04.07:489][665]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.07.26-09.04.31:070][998]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.07.26-09.04.31:993][ 52]LogBlueprintUserMessages: [Demo_C_0] Blackout
+[2024.07.26-09.04.40:890][581]LogBlueprintUserMessages: [Demo_C_0] Blackout
+[2024.07.26-09.05.02:104][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.26-09.05.02:104][831]LogWorld: BeginTearingDown for /Game/Scenes/Demo/UEDPIE_0_Demo
+[2024.07.26-09.05.02:121][831]LogSlate: Window 'ProjectOvertime Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.07.26-09.05.02:133][831]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2024.07.26-09.05.02:134][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.05.02:134][831]LogContentBundle: [Demo(Standalone)] Deleting container.
+[2024.07.26-09.05.02:138][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.26-09.05.02:146][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.26-09.05.02:182][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.26-09.05.02:182][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.26-09.05.02:184][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.26-09.05.02:211][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.07.26-09.05.02:313][832]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.07.26-09.05.04:325][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.07.26-09.05.04:334][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.26-09.05.04:377][944]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7
+[2024.07.26-09.05.04:378][944]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/2Z78JEBSRQIJRX4AHEHLD7DB936FEF4ECDDDE3C56B8F9F14C81581.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/__ExternalActors__/Scenes/Demo/Demo/4/LF/2Z78JEBSRQIJRX4AHEHLD7.uasset'
+[2024.07.26-09.05.04:393][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.01 sec)
+[2024.07.26-09.05.04:396][944]AssetCheck: New page: Asset Save: LevelSequenceActor_UAID_54BF64519455860C02_1143683762
+[2024.07.26-09.05.04:397][944]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequenceActor /Game/Scenes/Demo/Demo.Demo:PersistentLevel.LevelSequenceActor_UAID_54BF64519455860C02_1143683762
