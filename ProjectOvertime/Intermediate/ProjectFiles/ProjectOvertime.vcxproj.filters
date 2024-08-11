@@ -15,16 +15,16 @@
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultGame.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultInput.ini">
+    <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ProjectOvertime">
@@ -51,10 +51,11 @@
     <ClInclude Include="..\..\Source\ProjectOvertime\SettingsWidget.h">
       <Filter>Source\ProjectOvertime</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Framerate.h">
+    <ClInclude Include="..\..\Source\ProjectOvertime\FieldOfViewComponent.h">
       <Filter>Source\ProjectOvertime</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectOvertime\FieldOfViewComponent.cpp">
+      <Filter>Source\ProjectOvertime</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

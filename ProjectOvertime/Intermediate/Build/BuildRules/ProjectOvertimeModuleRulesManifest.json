@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\yurir\\OneDrive\\Documentos\\GitHub\\Project_Overtime\\ProjectOvertime\\Source\\ProjectOvertime\\ProjectOvertime.Build.cs",
-		"C:\\Users\\yurir\\OneDrive\\Documentos\\GitHub\\Project_Overtime\\ProjectOvertime\\Source\\ProjectOvertime.Target.cs",
-		"C:\\Users\\yurir\\OneDrive\\Documentos\\GitHub\\Project_Overtime\\ProjectOvertime\\Source\\ProjectOvertimeEditor.Target.cs"
+		"D:\\ProjectOvertime\\ProjectOvertime\\Source\\ProjectOvertime\\ProjectOvertime.Build.cs",
+		"D:\\ProjectOvertime\\ProjectOvertime\\Source\\ProjectOvertime.Target.cs",
+		"D:\\ProjectOvertime\\ProjectOvertime\\Source\\ProjectOvertimeEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

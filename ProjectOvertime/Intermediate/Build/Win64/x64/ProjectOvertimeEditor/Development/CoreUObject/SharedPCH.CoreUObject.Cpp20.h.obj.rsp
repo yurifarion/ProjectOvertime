@@ -1,4 +1,4 @@
-"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.cpp"
+"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "Runtime\CoreUObject\Public"
@@ -13,10 +13,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/Yc"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h"
-/Fp"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h.pch"
-/Fo"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h.obj"
-/sourceDependencies "C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h.dep.json"
+/Yc"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h"
+/Fp"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h.pch"
+/Fo"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h.obj"
+/sourceDependencies "D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

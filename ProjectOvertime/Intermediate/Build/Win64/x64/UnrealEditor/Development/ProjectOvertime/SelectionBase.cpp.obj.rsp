@@ -1,11 +1,11 @@
-"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Source\ProjectOvertime\SelectionBase.cpp"
-/FI"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/FI"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\Definitions.ProjectOvertime.h"
-/Yu"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/Fp"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SelectionBase.cpp.obj"
-/sourceDependencies "C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SelectionBase.cpp.dep.json"
-@"C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.Shared.rsp"
+"D:\ProjectOvertime\ProjectOvertime\Source\ProjectOvertime\SelectionBase.cpp"
+/FI"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/FI"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\Definitions.ProjectOvertime.h"
+/Yu"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/Fp"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\ProjectOvertimeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
+/Fo"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SelectionBase.cpp.obj"
+/sourceDependencies "D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\SelectionBase.cpp.dep.json"
+@"D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectOvertime\ProjectOvertime.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

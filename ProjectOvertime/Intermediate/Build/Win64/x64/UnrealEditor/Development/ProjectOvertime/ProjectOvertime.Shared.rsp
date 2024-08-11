@@ -270,8 +270,8 @@
 /I "Runtime\ColorManagement\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\MediaUtils\UHT"
 /I "Runtime\MediaUtils\Public"
-/I "C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Intermediate\Build\Win64\UnrealEditor\Inc\ProjectOvertime\UHT"
-/I "C:\Users\yurir\OneDrive\Documentos\GitHub\Project_Overtime\ProjectOvertime\Source"
+/I "D:\ProjectOvertime\ProjectOvertime\Intermediate\Build\Win64\UnrealEditor\Inc\ProjectOvertime\UHT"
+/I "D:\ProjectOvertime\ProjectOvertime\Source"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"
