@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projectovertime\\projectovertime\\source\\projectovertime\\projectovertime.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projectovertime\\projectovertime\\intermediate\\build\\win64\\x64\\projectovertime\\shipping\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\projectovertime\\projectovertime\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\projectovertime\\definitions.projectovertime.h",
+            "d:\\projectovertime\\projectovertime\\source\\projectovertime\\projectovertime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
