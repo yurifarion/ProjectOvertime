@@ -7060,3 +7060,182 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.15-03.23.01:263][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
 [2025.05.15-03.23.01:463][212]LogPlayLevel: Display: Destroying online subsystem :Context_64
 [2025.05.15-03.23.03:663][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.15-03.23.50:388][260]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audios/VO/SC_Intro_01.SC_Intro_01
+[2025.05.15-03.23.57:737][552]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audios/VO/AudioFiles/VO_Intro_01.VO_Intro_01
+[2025.05.15-03.26.48:094][732]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave VO_Blackout_Scared...
+[2025.05.15-03.26.48:138][732]LogAudio: Display: Chunk sizes for SoundWave /Game/Audios/VO/AudioFiles/VO_Blackout_Scared.VO_Blackout_Scared: Chunk0=28 bytes, Chunk1-N=256k
+[2025.05.15-03.26.48:140][732]LogDerivedDataCache: C:/Users/yurir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/yurir/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/79/3f/2196dfb2c2b2319d2a8244944291c837cea5.udd from 'Unknown SoundWave'.
+[2025.05.15-03.27.33:802][266]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audios/VO/AudioFiles/VO_Intro_02.VO_Intro_02
+[2025.05.15-03.27.51:733][723]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audios/VO/AudioFiles/VO_Paulo_Note.VO_Paulo_Note
+[2025.05.15-03.28.09:911][183]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audios/VO/AudioFiles/VO_Elevator_Without_Power.VO_Elevator_Without_Power
+[2025.05.15-03.28.29:212][786]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audios/VO/AudioFiles/VO_Elevator_Without_Bag.VO_Elevator_Without_Bag
+[2025.05.15-03.28.40:549][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-03.28.40:607][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audios/VO/AudioFiles/VO_Elevator_Without_Bag" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Elevator_Without_Bag.uasset" SILENT=true
+[2025.05.15-03.28.40:639][ 75]LogSavePackage: Moving output files for package: /Game/Audios/VO/AudioFiles/VO_Elevator_Without_Bag
+[2025.05.15-03.28.40:640][ 75]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/VO_Elevator_Without_Bag37A31CA14B42E65FE767B88BF864F76F.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Elevator_Without_Bag.uasset'
+[2025.05.15-03.28.40:652][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 11.4 sec)
+[2025.05.15-03.28.40:659][ 75]AssetCheck: New page: Asset Save: VO_Elevator_Without_Bag
+[2025.05.15-03.28.40:659][ 75]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audios/VO/AudioFiles/VO_Elevator_Without_Bag.VO_Elevator_Without_Bag
+[2025.05.15-03.28.43:013][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.05.15-03.28.43:019][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-03.28.43:082][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audios/VO/AudioFiles/VO_Elevator_Without_Power" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Elevator_Without_Power.uasset" SILENT=true
+[2025.05.15-03.28.43:109][178]LogSavePackage: Moving output files for package: /Game/Audios/VO/AudioFiles/VO_Elevator_Without_Power
+[2025.05.15-03.28.43:110][178]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/VO_Elevator_Without_Power7D1B1FAE46AFCBD095AA1F80AAAC8BFD.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Elevator_Without_Power.uasset'
+[2025.05.15-03.28.43:116][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audios/VO/AudioFiles/VO_Intro_01" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Intro_01.uasset" SILENT=true
+[2025.05.15-03.28.43:141][178]LogSavePackage: Moving output files for package: /Game/Audios/VO/AudioFiles/VO_Intro_01
+[2025.05.15-03.28.43:142][178]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/VO_Intro_0191973B7D4D0352D61080C7A5ADCEFD8B.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Intro_01.uasset'
+[2025.05.15-03.28.43:148][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audios/VO/AudioFiles/VO_Intro_02" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Intro_02.uasset" SILENT=true
+[2025.05.15-03.28.43:164][178]LogSavePackage: Moving output files for package: /Game/Audios/VO/AudioFiles/VO_Intro_02
+[2025.05.15-03.28.43:165][178]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/VO_Intro_02651B0813421886B999E69F98BA67E0D6.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Intro_02.uasset'
+[2025.05.15-03.28.43:170][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audios/VO/AudioFiles/VO_Paulo_Note" FILE="D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Paulo_Note.uasset" SILENT=true
+[2025.05.15-03.28.43:186][178]LogSavePackage: Moving output files for package: /Game/Audios/VO/AudioFiles/VO_Paulo_Note
+[2025.05.15-03.28.43:187][178]LogSavePackage: Moving 'D:/ProjectOvertime/ProjectOvertime/Saved/VO_Paulo_Note37CEC258430B4997B34CC5B44A3C3165.tmp' to 'D:/ProjectOvertime/ProjectOvertime/Content/Audios/VO/AudioFiles/VO_Paulo_Note.uasset'
+[2025.05.15-03.28.43:196][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 11.6 sec)
+[2025.05.15-03.28.43:205][178]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.15-03.28.43:205][178]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audios/VO/AudioFiles/VO_Elevator_Without_Power.VO_Elevator_Without_Power
+[2025.05.15-03.28.43:205][178]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audios/VO/AudioFiles/VO_Intro_01.VO_Intro_01
+[2025.05.15-03.28.43:205][178]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audios/VO/AudioFiles/VO_Intro_02.VO_Intro_02
+[2025.05.15-03.28.43:205][178]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audios/VO/AudioFiles/VO_Paulo_Note.VO_Paulo_Note
+[2025.05.15-03.28.45:130][257]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.15-03.28.45:156][257]LogContentBundle: [Demo(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.15-03.28.45:156][257]LogWorldPartition: Display: GenerateStreaming for 'Demo' started...
+[2025.05.15-03.28.45:158][257]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.Statue Note 
+[2025.05.15-03.28.45:158][257]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.EndGameTriggerBox 
+[2025.05.15-03.28.45:158][257]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.InventoryTutoTriggerBox 
+[2025.05.15-03.28.45:158][257]MapCheck: Error: Level Script Blueprint references streamed actor /Game/Scenes/Demo/Demo.FlashlightTriggerBox 
+[2025.05.15-03.28.45:317][257]LogWorldPartition: Display: GenerateStreaming for 'Demo' took 161 ms (total: 6.96 sec)
+[2025.05.15-03.28.45:318][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.15-03.28.45:318][257]PIE: New page: PIE session: Demo (2025/05/15 21:28:45)
+[2025.05.15-03.28.45:318][257]LogPlayLevel: Creating play world package: /Game/Scenes/Demo/UEDPIE_0_Demo
+[2025.05.15-03.28.45:339][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021235s)
+[2025.05.15-03.28.45:339][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Demo/Demo.Demo to /Game/Scenes/Demo/UEDPIE_0_Demo.Demo (0.021267s)
+[2025.05.15-03.28.45:359][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.15-03.28.45:361][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.15-03.28.45:361][257]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.15-03.28.45:361][257]LogAIModule: Creating AISystem for world Demo
+[2025.05.15-03.28.45:363][257]LogWorldPartition: ULevel::OnLevelLoaded(Demo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.15-03.28.45:363][257]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.15-03.28.45:363][257]LogWorldPartition: UWorldPartition::Initialize : World = Demo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.15-03.28.45:363][257]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.15-03.28.45:369][257]LogContentBundle: [Demo(Standalone)] Creating new contrainer.
+[2025.05.15-03.28.45:369][257]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 10.8 sec)
+[2025.05.15-03.28.45:369][257]LogPlayLevel: PIE: World Init took: (0.008743s)
+[2025.05.15-03.28.45:369][257]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.15-03.28.45:370][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.15-03.28.45:370][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.15-03.28.45:371][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.15-03.28.45:371][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.15-03.28.45:371][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.15-03.28.45:374][257]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.15-03.28.45:399][257]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.05.15-03.28.45:399][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.15-03.28.45:399][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.15-03.28.45:399][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.15-03.28.45:400][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.05.15-03.28.45:400][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.05.15-03.28.45:402][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.05.15-03.28.45:402][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.05.15-03.28.45:402][257]LogInit: FAudioDevice initialized with ID 40.
+[2025.05.15-03.28.45:402][257]LogAudio: Display: Audio Device (ID: 40) registered with world 'Demo'.
+[2025.05.15-03.28.45:402][257]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.05.15-03.28.45:403][257]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2025.05.15-03.28.45:459][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-03.28.45:459][257]LogLoad: Game class is 'MainGameMode_C'
+[2025.05.15-03.28.45:463][257]LogWorld: Bringing World /Game/Scenes/Demo/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2025.05.15-12.28.45
+[2025.05.15-03.28.45:464][257]LogWorld: Bringing up level for play took: 0.003679
+[2025.05.15-03.28.45:466][257]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.05.15-03.28.45:469][257]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2025.05.15-03.28.45:469][257]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-17881.832 Y=-15546.325 Z=92.181,P=0.000000 Y=179.999997 R=-0.000000
+[2025.05.15-03.28.45:474][257]LogStreaming: Display: FlushAsyncLoading(): 312 QueuedPackages, 0 AsyncPackages
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/XH/9M72OYEZ3FEO7R28AAIMLG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/9Q/RKUVSX5RLGTWH48NJCVYOH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/6T/846XE5UPJ181A6ZJMLTDXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/E/55/BANXCPQQ0RKB6388K0RFCM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/WB/JCQE2436H6SBLQM8QLXBBD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/D/RW/HJRHYFVTOTEYQ4LBXUJV2K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/LH/Z1P7S5YSPW3U9WR5QHG86R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DF/96MPFMQ1SNXWNM3AMGRUI6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/C/DC/TRXOXJTC1WT8TYV04PWAN7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/VB/0PDWS04SX3ZC99V8Q7DFYS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/RJ/6HTSPB6BYP6MXAKHJZH4B7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/KP/RY1NGPQSP6LJ4L6LC4G0Q5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/B/AS/TOYRTW9I24GKV10MR64OUS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/A/NJ/2WLJSJP3WMAYR7G9YSQHJ2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/Y5/NX7DNC6KX8GAFVANLZIETG.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/NO/VYWMJV1GT1T3KCRP3NJE4B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/CC/VBLV75ZWDAWYQIVLL1VL8K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/9/3L/OWVYSLLJUIDAN4R1JYRJTC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/Q3/E4LYPD6LU5NXXD546TPMFW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/8/MM/T2PRS4ZUHC0QUPVMZLOLXO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/XB/RHM53B2AUHT374Z7913JVC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/UA/KH492JZ630SIWWKNAJRJC4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/HP/AGMIXXRBULXWUE7LGMJYPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/8D/IX6ZE71CJFB9SIUYDJI35L.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/7/3U/0IP8PLVEW0T2S8LPC42L2K.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/YC/Z7F2KPDUOQHDCGUHS091JT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/NR/6WALWYKUHVLEZHV4BN0ZFG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/KN/J67FZEOR8ZE258NPKG9R2C.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/I7/V3ZQO2N3VKQEO5765DHO8Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/6/06/KKH4AL5FHWBPKMTJ5PJAUC.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/5/LG/USV8WKXOJ34YOQJ2TN96CK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/X6/K8CYNSZ3WYFYJMRM2YS2N1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/90NRQN0D9JJ242S41QDK0N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/9L/SWOFL0EWBEFVQF54I8DIN1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/70/C9BRPCFRPKOLTAMMVDIP0I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/4/44/Q4K7AUKG86K606TVBSOBRU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/PB/8NKQFQFDQGZ70JAI6JN70K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/97/OQORZSGGTDS1MK4HDVQLEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/3/43/O1KZ7HUC5D9U5F40QWJPGE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/2/DT/65OK5PIGADAWJRS7NDOV1V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/TU/D1O12OHIQL0THBVMU27HSE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:611][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/9E/GUX0C66422N35GWXEI237X.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/80/7RUM82CMIQJPFOBWZPFZ0C.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/5G/RSTLGFB7NUZ67QEKJG011L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/40/66CERBLRTFKQ0OMGJVW8LN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/1/0W/7N6FMOCFQUE2U834B7MK4H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/JA/L4VTQXI67ZGR1XOCRQELU9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/CO/D14QFDO6FT71EUNH9A3UTX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2025.05.15-03.28.45:612][257]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Scenes/Demo/Demo/0/32/J4Q48W6MCKO8GPPQ3QR0GM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2025.05.15-03.28.45:680][257]PIE: Server logged in
+[2025.05.15-03.28.45:683][257]PIE: Play in editor total start time 0.528 seconds.
+[2025.05.15-03.28.45:696][257]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'SC_Backroom'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.05.15-03.28.45:887][257]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2025.05.15-03.28.46:804][283]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.05.15-03.28.47:514][303]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.05.15-03.28.47:515][303]LogLevelSequence: Starting new camera cut: 'CameraActor_UAID_54BF64519455E5DF01_1357106958'
+[2025.05.15-03.29.15:212][107]LogLevelSequence: Blending into new camera cut: 'CameraActor_UAID_54BF64519455E5DF01_1357106958' -> 'BP_FirstPersonMovement_C_0' (blend time: 0.000000)
+[2025.05.15-03.29.16:101][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-03.29.16:101][129]LogWorld: BeginTearingDown for /Game/Scenes/Demo/UEDPIE_0_Demo
+[2025.05.15-03.29.16:118][129]LogSlate: Window 'ProjectOvertime Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.15-03.29.16:177][129]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-03.29.16:177][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-03.29.16:178][129]LogContentBundle: [Demo(Standalone)] Deleting container.
+[2025.05.15-03.29.16:182][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.15-03.29.16:189][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-03.29.16:218][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.05.15-03.29.16:218][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.05.15-03.29.16:220][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.05.15-03.29.16:241][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.15-03.29.16:358][130]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.05.15-03.30.40:174][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
