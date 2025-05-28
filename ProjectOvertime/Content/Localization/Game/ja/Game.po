@@ -1,0 +1,561 @@
+﻿# Game Japanese translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-05-28 06:58\n"
+"PO-Revision-Date: 2025-05-28 06:58\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	3E7F4A6A43D58831D2F5279674196ABD
+#. SourceLocation:	/Game/Core/Blueprints/Actors/BP_Poster_1.Default__BP_Poster_1_C.Content
+#: /Game/Core/Blueprints/Actors/BP_Poster_1.Default__BP_Poster_1_C.Content
+msgctxt ",3E7F4A6A43D58831D2F5279674196ABD"
+msgid "We Want You!\r\nOpen positions:\r\n- Security Guard\r\n- Cashier\r\n- Butcher\r\n- Stock clerk\r\n\r\nApply now!\r\n\r\nSend us your resume:\r\nhello@jessymall.com\r\nmore information:\r\nwww.jessymall.com"
+msgstr ""
+
+#. Key:	A840E67E442BCADAEE60D2B846354231
+#. SourceLocation:	/Game/Core/Blueprints/Actors/BP_Poster_1.Default__BP_Poster_1_C.Title
+#: /Game/Core/Blueprints/Actors/BP_Poster_1.Default__BP_Poster_1_C.Title
+msgctxt ",A840E67E442BCADAEE60D2B846354231"
+msgid "Flyer of Supermarket"
+msgstr ""
+
+#. Key:	BF5237F542708687CC7E9B81664FF42B
+#. SourceLocation:	/Game/Core/Blueprints/E_ItemCategory.E_ItemCategory.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Core/Blueprints/E_ItemCategory.E_ItemCategory.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",BF5237F542708687CC7E9B81664FF42B"
+msgid "Misc"
+msgstr ""
+
+#. Key:	6DD40D6E4A352CD5C986A1923C66A5DC
+#. SourceLocation:	/Game/Core/Blueprints/E_ItemCategory.E_ItemCategory.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Core/Blueprints/E_ItemCategory.E_ItemCategory.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",6DD40D6E4A352CD5C986A1923C66A5DC"
+msgid "Notes"
+msgstr ""
+
+#. Key:	A58DF798419C6CDE112E36BE0CC8231E
+#. SourceLocation:	/Game/Core/Blueprints/E_ItemCategory.E_ItemCategory.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Core/Blueprints/E_ItemCategory.E_ItemCategory.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A58DF798419C6CDE112E36BE0CC8231E"
+msgid "Keys"
+msgstr ""
+
+#. Key:	53848E364961B80FFC5746ACB52D2ADF
+#. SourceLocation:	/Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Credits_Text.Text
+#: /Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Credits_Text.Text
+msgctxt ",53848E364961B80FFC5746ACB52D2ADF"
+msgid "CREDITS"
+msgstr ""
+
+#. Key:	1BC62BC54BF56E4B3F18978CE14A6FE2
+#. SourceLocation:	/Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Exit_text.Text
+#: /Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Exit_text.Text
+msgctxt ",1BC62BC54BF56E4B3F18978CE14A6FE2"
+msgid "EXIT"
+msgstr ""
+
+#. Key:	D63048D44D8BD06E228CCE9AE9586A5C
+#. SourceLocation:	/Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.MainStory_Text.Text
+#: /Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.MainStory_Text.Text
+msgctxt ",D63048D44D8BD06E228CCE9AE9586A5C"
+msgid "MAIN STORY"
+msgstr ""
+
+#. Key:	1346C9054BAE87796CA517AF83BA954F
+#. SourceLocation:	/Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Options_Text.Text
+#: /Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.Options_Text.Text
+msgctxt ",1346C9054BAE87796CA517AF83BA954F"
+msgid "OPTIONS"
+msgstr ""
+
+#. Key:	32DD723E43A38775569C64BA9027C051
+#. SourceLocation:	/Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.StartGameText.Text
+#: /Game/Core/Blueprints/UI/MainMenu/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.StartGameText.Text
+msgctxt ",32DD723E43A38775569C64BA9027C051"
+msgid "START GAME"
+msgstr ""
+
+#. Key:	32E65047487CCE72BC3F02A2DD8A1827
+#. SourceLocation:	/Game/Core/Blueprints/UI/WB_ItemSlot.WB_ItemSlot_C:WidgetTree.TextBlock_670.Text
+#: /Game/Core/Blueprints/UI/WB_ItemSlot.WB_ItemSlot_C:WidgetTree.TextBlock_670.Text
+msgctxt ",32E65047487CCE72BC3F02A2DD8A1827"
+msgid "item name"
+msgstr ""
+
+#. Key:	27063C134486610D1A7040A9B467F410
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_33.Text
+#: /Game/Core/Blueprints/UI/WBP_Credits.WBP_Credits_C:WidgetTree.TextBlock_33.Text
+msgctxt ",27063C134486610D1A7040A9B467F410"
+msgid "Credits\r\n\r\nSolo Developer: Yuri Farion\r\nProgramming: Yuri Farion\r\n\r\n3D Models\r\n\r\nMonster Model - Felix (ssuko - CGTrader)\r\nAncient Model - Donqcg (CGTrader)\r\nFlashlight Model - Minitakesstudio (CGTrader)\r\nBackpack Model - Asleeper (CGTrader)\r\n\r\nTextures\r\n\r\nWooden flooring textured background design - Freepik\r\nComputer icon - IconBaandar (Freepik)\r\nCursor icon - Pixel perfect (Freepik)\r\nLetter E icon - Freepik\r\nBrown wooden textured flooring background - Freepik\r\nRealistic elevator cabin with closed doors, lift - Freepik\r\nCement texture - Freepik\r\nClose-up marble texture background - Freepik\r\nTree stumps surrounded by vegetation in a forest under sunlight - Freepik\r\n\r\nFont\r\n\r\nLinux Libertine by Philipp H. Poll\r\n\r\nSounds (from Freesound.org)\r\n\r\nRemove Paper Sound - usamah\r\nFlashlight Switch - Dpoggioli\r\nUnlock Door - MrAuralization\r\nOpen/Close Locker Door - Profispiesser\r\nBlackout On/Off - Wax_vibe\r\nThriller Ambient - unfa\r\nChair Sound - Marnenagel\r\nElevator Button - alec_mackay\r\nThriller Ambient - szegvari\r\nWoman Scream - nick121087\r\nMonster Roar - gpag1\r\nRunning on Wood - florianreichelt\r\nMonster Attack - Bernuy\r\nBody Hit - 000600\r\nGet Item - deleted_user_2104797\r\nDoor Open Slowly - kyles\r\nWind Forest Loop - Nox_Sound\r\nMain Music - xkeril\r\nCode Typing - zrrion\r\nUI Click - cabled_mess\r\nUI Hover - Fachii\r\nBackroom Ambience - Resaural\r\nChair Moving - romeoplank\r\nChair Rolling - mefrancis13\r\nFootstep Wood Loop - Rico_Casazza\r\nCamera Move - klankbeeld\r\nLocked Door - CastIronCarousel\r\n\r\nThank you for playing :)\r\n"
+msgstr ""
+
+#. Key:	04E799554ADEDB8B4511E0932D4AEB40
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_DeveloperMenu.WBP_DeveloperMenu_C:WidgetTree.CommonTextBlock_1.Text
+#: /Game/Core/Blueprints/UI/WBP_DeveloperMenu.WBP_DeveloperMenu_C:WidgetTree.CommonTextBlock_1.Text
+msgctxt ",04E799554ADEDB8B4511E0932D4AEB40"
+msgid "Skip cutscenes"
+msgstr ""
+
+#. Key:	47C78BD04053523C84E2739A528E8030
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_DeveloperMenu.WBP_DeveloperMenu_C:WidgetTree.CommonTextBlock_2.Text
+#: /Game/Core/Blueprints/UI/WBP_DeveloperMenu.WBP_DeveloperMenu_C:WidgetTree.CommonTextBlock_2.Text
+msgctxt ",47C78BD04053523C84E2739A528E8030"
+msgid "Key master"
+msgstr ""
+
+#. Key:	AFD49B28487C60382DBF84B2890183C2
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_DeveloperMenu.WBP_DeveloperMenu_C:WidgetTree.CommonTextBlock_3.Text
+#: /Game/Core/Blueprints/UI/WBP_DeveloperMenu.WBP_DeveloperMenu_C:WidgetTree.CommonTextBlock_3.Text
+msgctxt ",AFD49B28487C60382DBF84B2890183C2"
+msgid "Monster Ignore   "
+msgstr ""
+
+#. Key:	D49D02714D238D9C6060BC9B82B55FF6
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Hint.WBP_Hint_C:WidgetTree.Message.Text
+#: /Game/Core/Blueprints/UI/WBP_Hint.WBP_Hint_C:WidgetTree.Message.Text
+msgctxt ",D49D02714D238D9C6060BC9B82B55FF6"
+msgid "Description of the Hint"
+msgstr ""
+
+#. Key:	B1DCC8474655F08B86C1D4862AEB39B3
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Hint.WBP_Hint_C:WidgetTree.Title.Text
+#: /Game/Core/Blueprints/UI/WBP_Hint.WBP_Hint_C:WidgetTree.Title.Text
+msgctxt ",B1DCC8474655F08B86C1D4862AEB39B3"
+msgid "Title"
+msgstr ""
+
+#. Key:	BB558CD64AD5A398B21E309F3210B199
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Interactable.WBP_Interactable_C:WidgetTree.InteractableText.Text
+#: /Game/Core/Blueprints/UI/WBP_Interactable.WBP_Interactable_C:WidgetTree.InteractableText.Text
+msgctxt ",BB558CD64AD5A398B21E309F3210B199"
+msgid "Interact"
+msgstr ""
+
+#. Key:	7B7FB15E46BA3EC082C403987FDFBC1F
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock.Text
+#: /Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock.Text
+msgctxt ",7B7FB15E46BA3EC082C403987FDFBC1F"
+msgid "KEYS"
+msgstr ""
+
+#. Key:	F0DBC5FB4723CE82EA500187A61B2101
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock_2.Text
+#: /Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock_2.Text
+msgctxt ",F0DBC5FB4723CE82EA500187A61B2101"
+msgid "MISC"
+msgstr ""
+
+#. Key:	80B49F454E3419EB838951BD67FD09C6
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock_538.Text
+#: /Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock_538.Text
+msgctxt ",80B49F454E3419EB838951BD67FD09C6"
+msgid "NOTES"
+msgstr ""
+
+#. Key:	6337A64549039826ADB9F0A39CB87805
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock_62.Text
+#: /Game/Core/Blueprints/UI/WBP_Inventory.WBP_Inventory_C:WidgetTree.TextBlock_62.Text
+msgctxt ",6337A64549039826ADB9F0A39CB87805"
+msgid "INVENTORY"
+msgstr ""
+
+#. Key:	FE11065043265D7568A10AB10C739861
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ItemDetail.Default__WBP_ItemDetail_C.Item Data.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/Blueprints/UI/WBP_ItemDetail.Default__WBP_ItemDetail_C.Item Data.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt ",FE11065043265D7568A10AB10C739861"
+msgid "Defaul"
+msgstr ""
+
+#. Key:	AF68795F45E63DFACE24439C361441BC
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ItemDetail.WBP_ItemDetail_C:WidgetTree.TextBlock_124.Text
+#: /Game/Core/Blueprints/UI/WBP_ItemDetail.WBP_ItemDetail_C:WidgetTree.TextBlock_124.Text
+msgctxt ",AF68795F45E63DFACE24439C361441BC"
+msgid "Close"
+msgstr ""
+
+#. Key:	C3A494BE476A0EB5AC3051A463CC30AE
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ItemDetail.WBP_ItemDetail_C:WidgetTree.TextBlock_62.Text
+#: /Game/Core/Blueprints/UI/WBP_ItemDetail.WBP_ItemDetail_C:WidgetTree.TextBlock_62.Text
+msgctxt ",C3A494BE476A0EB5AC3051A463CC30AE"
+msgid "ITEM NAME"
+msgstr ""
+
+#. Key:	E9F417244D8944988A45BF84147A6F41
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ItemDetail.WBP_ItemDetail_C:WidgetTree.TextBlock_68.Text
+#: /Game/Core/Blueprints/UI/WBP_ItemDetail.WBP_ItemDetail_C:WidgetTree.TextBlock_68.Text
+msgctxt ",E9F417244D8944988A45BF84147A6F41"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr ""
+
+#. Key:	D6EE064348B8F2E474D830A821E73793
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock.Text
+#: /Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock.Text
+msgctxt ",D6EE064348B8F2E474D830A821E73793"
+msgid "Exit"
+msgstr ""
+
+#. Key:	1FB5837243272B39319969853218454F
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock_1.Text
+#: /Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock_1.Text
+msgctxt ",1FB5837243272B39319969853218454F"
+msgid "Return To The Game"
+msgstr ""
+
+#. Key:	4EF311904B90967369FF77938718E836
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock_132.Text
+#: /Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock_132.Text
+msgctxt ",4EF311904B90967369FF77938718E836"
+msgid "Settings"
+msgstr ""
+
+#. Key:	E5292D784EEE9724A26A73A41E54F750
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock_3.Text
+#: /Game/Core/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu_C:WidgetTree.CommonTextBlock_3.Text
+msgctxt ",E5292D784EEE9724A26A73A41E54F750"
+msgid "Developer Mode"
+msgstr ""
+
+#. Key:	51C370A7411AFCE8415D49A9F9B6A22A
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ReadableFile.WBP_ReadableFile_C:WidgetTree.Content.Text
+#: /Game/Core/Blueprints/UI/WBP_ReadableFile.WBP_ReadableFile_C:WidgetTree.Content.Text
+msgctxt ",51C370A7411AFCE8415D49A9F9B6A22A"
+msgid "Hey Chico,\r\n\r\nHope you had a nice nap! Looks like you dozed off again at the office. Classic move!\r\n\r\nJust wanted to let you know, I've hidden your office key so you can learn a lesson. Thought it might add some excitement to your day. (Tip: It’s not at the bookshelf)\r\n\r\nHappy hunting, and remember, I am the BOSS!\r\n\r\nCheers,\r\nPaulo\r\n"
+msgstr ""
+
+#. Key:	461D6C694FF8FEE9761DD7A9F925C170
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ReadableFile.WBP_ReadableFile_C:WidgetTree.TextBlock_89.Text
+#: /Game/Core/Blueprints/UI/WBP_ReadableFile.WBP_ReadableFile_C:WidgetTree.TextBlock_89.Text
+msgctxt ",461D6C694FF8FEE9761DD7A9F925C170"
+msgid "Close"
+msgstr ""
+
+#. Key:	1F576EEF47EE802040A26DA4E985A88E
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_ReadableFile.WBP_ReadableFile_C:WidgetTree.Title.Text
+#: /Game/Core/Blueprints/UI/WBP_ReadableFile.WBP_ReadableFile_C:WidgetTree.Title.Text
+msgctxt ",1F576EEF47EE802040A26DA4E985A88E"
+msgid "Flyer of Supermarket"
+msgstr ""
+
+#. Key:	5818B93E41C311C700D1748C32B40F20
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Selection.WBP_Selection_C:WidgetTree.TextBlock_153.Text
+#: /Game/Core/Blueprints/UI/WBP_Selection.WBP_Selection_C:WidgetTree.TextBlock_153.Text
+msgctxt ",5818B93E41C311C700D1748C32B40F20"
+msgid "<"
+msgstr ""
+
+#. Key:	29A00A024D34ECB6EF639890F01A3F9F
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_Selection.WBP_Selection_C:WidgetTree.TextBlock_64.Text
+#: /Game/Core/Blueprints/UI/WBP_Selection.WBP_Selection_C:WidgetTree.TextBlock_64.Text
+msgctxt ",29A00A024D34ECB6EF639890F01A3F9F"
+msgid ">"
+msgstr ""
+
+#. Key:	83C612644B8F6F3428FEBB8E7C9630BB
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Audio_Music.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Audio_Music.Text
+msgctxt ",83C612644B8F6F3428FEBB8E7C9630BB"
+msgid "Music"
+msgstr ""
+
+#. Key:	0251D81143155A8496423198458A5A86
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Audio_Music_1.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Audio_Music_1.Text
+msgctxt ",0251D81143155A8496423198458A5A86"
+msgid "SFX"
+msgstr ""
+
+#. Key:	68C7906440D3C807D3DA3881F7106E61
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Audio_Music_2.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Audio_Music_2.Text
+msgctxt ",68C7906440D3C807D3DA3881F7106E61"
+msgid "Voice"
+msgstr ""
+
+#. Key:	D5ABCD094E1D7746BA8336A7A29AE42E
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock.Text
+msgctxt ",D5ABCD094E1D7746BA8336A7A29AE42E"
+msgid "VSync"
+msgstr ""
+
+#. Key:	B6940CE14A80D04C3DF265A55F3D3828
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_1.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_1.Text
+msgctxt ",B6940CE14A80D04C3DF265A55F3D3828"
+msgid "Framerate"
+msgstr ""
+
+#. Key:	E830606B4EB3FEF6CDE4FCA92C021738
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_2.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_2.Text
+msgctxt ",E830606B4EB3FEF6CDE4FCA92C021738"
+msgid "Shading"
+msgstr ""
+
+#. Key:	B59E9E15471B461D5D4014B3A871CDA3
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_3.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_3.Text
+msgctxt ",B59E9E15471B461D5D4014B3A871CDA3"
+msgid "Global Illum."
+msgstr ""
+
+#. Key:	723D13B443C3CADFD22774966FECBADD
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_31.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_31.Text
+msgctxt ",723D13B443C3CADFD22774966FECBADD"
+msgid "Resolution"
+msgstr ""
+
+#. Key:	9AE247354E5064A2F3A29B9AA918D45D
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_4.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_4.Text
+msgctxt ",9AE247354E5064A2F3A29B9AA918D45D"
+msgid "Post Processing"
+msgstr ""
+
+#. Key:	272C448B47FC3A53D8A84E9F77835788
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_5.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_5.Text
+msgctxt ",272C448B47FC3A53D8A84E9F77835788"
+msgid "Visual Effects"
+msgstr ""
+
+#. Key:	A1EB01AB44226023417D328A8D0867CD
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_6.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_6.Text
+msgctxt ",A1EB01AB44226023417D328A8D0867CD"
+msgid "Shadows"
+msgstr ""
+
+#. Key:	02E18BDF4F96940A8ABCF7B25002EF83
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_7.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_7.Text
+msgctxt ",02E18BDF4F96940A8ABCF7B25002EF83"
+msgid "Back"
+msgstr ""
+
+#. Key:	79AEC5EB4178EDFF02AA0095250AB267
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_8.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.CommonTextBlock_8.Text
+msgctxt ",79AEC5EB4178EDFF02AA0095250AB267"
+msgid "Language"
+msgstr ""
+
+#. Key:	1B6F63A24C7813AF6D11B4A16965C8FA
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(0).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(0).Options.Label
+msgctxt ",1B6F63A24C7813AF6D11B4A16965C8FA"
+msgid "30"
+msgstr ""
+
+#. Key:	A413FB6E43EA4FF14E1171948CA9E866
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(1).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(1).Options.Label
+msgctxt ",A413FB6E43EA4FF14E1171948CA9E866"
+msgid "48"
+msgstr ""
+
+#. Key:	36AD172E4F1603439089A0A3B8F1AF31
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(2).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(2).Options.Label
+msgctxt ",36AD172E4F1603439089A0A3B8F1AF31"
+msgid "60"
+msgstr ""
+
+#. Key:	AA49C73B41908E6E9E47A983B0D6763B
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(3).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(3).Options.Label
+msgctxt ",AA49C73B41908E6E9E47A983B0D6763B"
+msgid "120"
+msgstr ""
+
+#. Key:	352291784E45635E36A809953EB427F8
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(4).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.FramerateSelection.Options(4).Options.Label
+msgctxt ",352291784E45635E36A809953EB427F8"
+msgid "Uncapped"
+msgstr ""
+
+#. Key:	E6D3A49E43CC05D74000F390637D6457
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.LanguageSelection.Options(0).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.LanguageSelection.Options(0).Options.Label
+msgctxt ",E6D3A49E43CC05D74000F390637D6457"
+msgid "English"
+msgstr ""
+
+#. Key:	B96551164E32B70D804413B33B79D92A
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.LanguageSelection.Options(1).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.LanguageSelection.Options(1).Options.Label
+msgctxt ",B96551164E32B70D804413B33B79D92A"
+msgid "日本語"
+msgstr ""
+
+#. Key:	EC9BC3424CE3991D668EDEB66B1921C0
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.LanguageSelection.Options(2).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.LanguageSelection.Options(2).Options.Label
+msgctxt ",EC9BC3424CE3991D668EDEB66B1921C0"
+msgid "Português"
+msgstr ""
+
+#. Key:	B45492B7494E3D57100096BF467C91FC
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Screen_Title.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.Screen_Title.Text
+msgctxt ",B45492B7494E3D57100096BF467C91FC"
+msgid "OPTIONS"
+msgstr ""
+
+#. Key:	58B03FAA42DCA610AD7C1BB38BD03EE1
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(0).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(0).Options.Label
+msgctxt ",58B03FAA42DCA610AD7C1BB38BD03EE1"
+msgid "Low"
+msgstr ""
+
+#. Key:	9260B0E44DB70F0F27402C8F39885D6D
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(1).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(1).Options.Label
+msgctxt ",9260B0E44DB70F0F27402C8F39885D6D"
+msgid "Medium"
+msgstr ""
+
+#. Key:	1A2732DF4814FFD770BA6DBBBC48D161
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(2).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(2).Options.Label
+msgctxt ",1A2732DF4814FFD770BA6DBBBC48D161"
+msgid "High"
+msgstr ""
+
+#. Key:	081E08C54195DF2B947A7B81D3CB8728
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(3).Options.Label
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.ShadingQualitySelection.Options(3).Options.Label
+msgctxt ",081E08C54195DF2B947A7B81D3CB8728"
+msgid "Ultra"
+msgstr ""
+
+#. Key:	2D6B8C604A91B02B8764E68EF1C36454
+#. SourceLocation:	/Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.TextBlock_170.Text
+#: /Game/Core/Blueprints/UI/WBP_SettingsMenu.WBP_SettingsMenu_C:WidgetTree.TextBlock_170.Text
+msgctxt ",2D6B8C604A91B02B8764E68EF1C36454"
+msgid "Audio"
+msgstr ""
+
+#. Key:	1_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.1.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.1.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,1_Description"
+msgid "A small, silver key. It looks like it might open Chico’s Office."
+msgstr ""
+
+#. Key:	10_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.10.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.10.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,10_Description"
+msgid "Mystery and Tension: Mary Stephen's Case Reaches 20 Days Without Answers\n\nThis Thursday marks 20 days since the mysterious disappearance of executive Mary Stephen, a successful professional whose sudden absence has puzzled authorities and the local community. The circumstances surrounding her disappearance remain unclear.\nMary was last seen leaving her apartment for a routine walk, something she did regularly. Days after her disappearance, a disturbing detail emerged: her blouse, bearing bloodstains and cuts, was found in a forested area near her home. However, her body has yet to be located, deepening the mystery surrounding the case.\n\nAs investigations continue at full speed, Mary’s family, friends, and coworkers endure days of anguish, awaiting any information that might provide answers about her whereabouts.\n\n The Late Journal\n"
+msgstr ""
+
+#. Key:	2_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.2.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.2.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,2_Description"
+msgid "Hey Chico,\n\nHope you had a nice nap! Looks like you dozed off again at the office. Classic move!\n\nJust wanted to let you know, I've hidden your office key so you can learn a lesson. Thought it might add some excitement to your day. (Tip: It’s not at the plant)\n\nHappy hunting, and remember, I am the BOSS!\n\nCheers,\nPaulo\n"
+msgstr ""
+
+#. Key:	3_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.3.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.3.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,3_Description"
+msgid "Chico,\n\nLooks like you're on a wild goose chase! I specifically said the key wasn't hiding among the plants, buddy. You must have a talent for finding the wrong places!\n\nBut fear not, there's another clue awaiting you. Check out your desk this time. Who knows, maybe it's cozying up under your mug?\n\nKeep the hunt alive!\n\nCheers,\nPaulo\n"
+msgstr ""
+
+#. Key:	4_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.4.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.4.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,4_Description"
+msgid "Guess what? Your bag isn't in my office. I know, shocking, right? You've had quite the adventure today with your treasure hunting escapades.\n\nYour elusive bag is actually hiding out in the storage room near the lunchroom. But watch out! Rumor has it that place is haunted... boohoo. Maybe bring some ghost-repellent snacks or a friendly ghostbuster just in case.\n"
+msgstr ""
+
+#. Key:	5_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.5.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.5.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,5_Description"
+msgid "lunch room’s iron key, cold to the touch."
+msgstr ""
+
+#. Key:	6_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.6.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.6.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,6_Description"
+msgid "This flashlight isn’t in great shape, but it’s your only source of light in the dark. Press F to turn it on or off."
+msgstr ""
+
+#. Key:	7_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.7.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.7.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,7_Description"
+msgid "This is Chico's Backpack,something about this backpack feels important. You can’t leave without it."
+msgstr ""
+
+#. Key:	8_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.8.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.8.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,8_Description"
+msgid "28349"
+msgstr ""
+
+#. Key:	9_Description
+#. SourceLocation:	/Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.9.Description_17_97DD31E4449318758395D08D86D52345
+#: /Game/Core/MasterData/ItemDataValues_ENG.ItemDataValues_ENG.9.Description_17_97DD31E4449318758395D08D86D52345
+msgctxt "ItemDataValues_ENG,9_Description"
+msgid "I tried to put the statue in the CEO's office like you asked, but no one mentioned it weighs a ton. The delivery guys had to bring it in with a crane, and it’s honestly a huge hassle. Anyway, it's not moving from here anytime soon.\n-Anonymous\n"
+msgstr ""
+
+#. Key:	D0427EED44AFDF7C80B783B06E585794
+#. SourceLocation:	/Game/Res/Material/Monitor/M_ProjectorEmission.M_ProjectorEmission:MaterialExpressionVectorParameter_1.ChannelNames.A
+#: /Game/Res/Material/Monitor/M_ProjectorEmission.M_ProjectorEmission:MaterialExpressionVectorParameter_1.ChannelNames.A
+msgctxt ",D0427EED44AFDF7C80B783B06E585794"
+msgid "Y"
+msgstr ""
+
+#. Key:	243A95DD435D4DEFEB9FB8A4FB30D5F8
+#. SourceLocation:	/Game/Res/Material/Monitor/M_ProjectorEmission.M_ProjectorEmission:MaterialExpressionVectorParameter_1.ChannelNames.B
+#: /Game/Res/Material/Monitor/M_ProjectorEmission.M_ProjectorEmission:MaterialExpressionVectorParameter_1.ChannelNames.B
+msgctxt ",243A95DD435D4DEFEB9FB8A4FB30D5F8"
+msgid "X "
+msgstr ""
+
+#. Key:	908B496547D86BAFE5D6E18FFD2083A4
+#. SourceLocation:	/Game/Res/Sounds/RAW/d_Office1_1.d_Office1_1.Subtitles(0).Subtitles.Text
+#: /Game/Res/Sounds/RAW/d_Office1_1.d_Office1_1.Subtitles(0).Subtitles.Text
+msgctxt ",908B496547D86BAFE5D6E18FFD2083A4"
+msgid "Oh no, not again, how long did I sleep for? I definitely need to go to bed earlier."
+msgstr ""
+
+#. Key:	6783A0814EED9701DFB064836D7B2960
+#. SourceLocation:	/Game/Res/Sounds/RAW/d_Office1_2.d_Office1_2.Subtitles(0).Subtitles.Text
+#: /Game/Res/Sounds/RAW/d_Office1_2.d_Office1_2.Subtitles(0).Subtitles.Text
+msgctxt ",6783A0814EED9701DFB064836D7B2960"
+msgid "If the boss catches me sleeping here in the office, he'll fire me."
+msgstr ""
+
+#. Key:	EF45CD4B4CDF2A7CB50CC78240E29E62
+#. SourceLocation:	/Game/Res/Sounds/RAW/d_Office1_3.d_Office1_3.Subtitles(0).Subtitles.Text
+#: /Game/Res/Sounds/RAW/d_Office1_3.d_Office1_3.Subtitles(0).Subtitles.Text
+msgctxt ",EF45CD4B4CDF2A7CB50CC78240E29E62"
+msgid "Paulo again with your jokes? I need to grab my bag and leave."
+msgstr ""
+
+#. Key:	DA63CCBF46D4B873E63E1081ECD6BE74
+#. SourceLocation:	/Game/Res/Sounds/RAW/Hey___Sound_Effect__Official_.Hey___Sound_Effect__Official_.Subtitles(0).Subtitles.Text
+#: /Game/Res/Sounds/RAW/Hey___Sound_Effect__Official_.Hey___Sound_Effect__Official_.Subtitles(0).Subtitles.Text
+msgctxt ",DA63CCBF46D4B873E63E1081ECD6BE74"
+msgid "I should get my bag"
+msgstr ""
+

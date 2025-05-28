@@ -3,6 +3,7 @@
 
 #include "SettingsWidget.h"
 #include "Components/ComboBoxString.h"
+#include "Internationalization/Culture.h"
 #include "GameFramework/GameUserSettings.h"
 #include "Kismet/KismetSystemLibrary.h"
 
@@ -89,6 +90,38 @@ void USettingsWidget::NativeConstruct()
 				GameUserSettings->ApplySettings(false);
 			});
 	}
+
+	// Set current language from system culture
+	FString CurrentCulture = FInternationalization::Get().GetCurrentCulture()->GetTwoLetterISOLanguageName();
+	int32 CurrentLanguageIndex = 0;
+
+	if (CurrentCulture == TEXT("ja"))
+	{
+		CurrentLanguageIndex = static_cast<int32>(EGameLanguage::Japanese);
+	}
+	else if (CurrentCulture == TEXT("pt"))
+	{
+		CurrentLanguageIndex = static_cast<int32>(EGameLanguage::Portuguese);
+	}
+	else
+	{
+		CurrentLanguageIndex = static_cast<int32>(EGameLanguage::English);
+	}
+
+	LanguageSelection->SetCurrentSelection(CurrentLanguageIndex);
+
+	// Bind logic when player changes language
+	LanguageSelection->OnSelectionChange.BindLambda([this](int32 InSelection)
+		{
+			EGameLanguage SelectedLanguage = static_cast<EGameLanguage>(InSelection);
+			FString NewCulture = GetCultureCodeFromLanguage(SelectedLanguage);
+			// Log the selected culture
+			UE_LOG(LogTemp, Log, TEXT("Changing culture to: %s"), *NewCulture);
+
+			FInternationalization::Get().SetCurrentCulture(NewCulture);
+
+
+		});
 }
 
 UWidget* USettingsWidget::NativeGetDesiredFocusTarget() const
@@ -179,3 +212,4 @@ void USettingsWidget::OnVSyncChanged(bool InIsChecked)
 	GameUserSettings->SetVSyncEnabled(InIsChecked);
 	GameUserSettings->ApplySettings(false);
 }
+

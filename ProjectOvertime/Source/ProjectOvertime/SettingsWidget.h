@@ -60,8 +60,28 @@ protected:
 	TObjectPtr<USelectionBase> ShadowQualitySelection;
 
 	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
-		TObjectPtr<USelectionBase> LanguageSelection;
+	TObjectPtr<USelectionBase> LanguageSelection;
 
 	UPROPERTY()
 	TArray<FIntPoint> Resolutions;
 };
+enum class EGameLanguage : uint8
+{
+	English UMETA(DisplayName = "English"),
+	Japanese UMETA(DisplayName = "Japanese"),
+	Portuguese UMETA(DisplayName = "Portuguese"),
+};
+static FString GetCultureCodeFromLanguage(EGameLanguage Language)
+{
+	switch (Language)
+	{
+	case EGameLanguage::English:
+		return TEXT("en");
+	case EGameLanguage::Japanese:
+		return TEXT("ja");
+	case EGameLanguage::Portuguese:
+		return TEXT("pt-BR");
+	default:
+		return TEXT("en");
+	}
+}
