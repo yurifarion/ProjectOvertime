@@ -50,6 +50,7 @@ namespace
 		EFramerate::FPS_Uncapped,
 	};
 
+
 	typedef int32(UGameUserSettings::*GetFunc)() const;
 	typedef void(UGameUserSettings::*SetFunc)(int);
 	struct FSelectionElement
@@ -164,6 +165,7 @@ void USettingsWidget::InitializeFramerate()
 			GameUserSettings->ApplySettings(false);
 		});
 }
+
 
 void USettingsWidget::OnResolutionChanged(FString InSelectedItem, ESelectInfo::Type InSeletionType)
 {

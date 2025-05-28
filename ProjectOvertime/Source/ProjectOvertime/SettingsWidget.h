@@ -59,6 +59,9 @@ protected:
 	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
 	TObjectPtr<USelectionBase> ShadowQualitySelection;
 
+	UPROPERTY(BlueprintReadOnly, meta = (BindWidget))
+		TObjectPtr<USelectionBase> LanguageSelection;
+
 	UPROPERTY()
 	TArray<FIntPoint> Resolutions;
 };

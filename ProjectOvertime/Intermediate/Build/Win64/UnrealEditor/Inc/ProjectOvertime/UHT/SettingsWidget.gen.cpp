@@ -171,6 +171,10 @@ void EmptyLinkFunctionForGeneratedCodeSettingsWidget() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_ShadowQualitySelection_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPtrPropertyParams NewProp_ShadowQualitySelection;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_LanguageSelection_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPtrPropertyParams NewProp_LanguageSelection;
 		static const UECodeGen_Private::FStructPropertyParams NewProp_Resolutions_Inner;
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_Resolutions_MetaData[];
@@ -277,6 +281,15 @@ void EmptyLinkFunctionForGeneratedCodeSettingsWidget() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPtrPropertyParams Z_Construct_UClass_USettingsWidget_Statics::NewProp_ShadowQualitySelection = { "ShadowQualitySelection", nullptr, (EPropertyFlags)0x002408000008001c, UECodeGen_Private::EPropertyGenFlags::Object | UECodeGen_Private::EPropertyGenFlags::ObjectPtr, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(USettingsWidget, ShadowQualitySelection), Z_Construct_UClass_USelectionBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_USettingsWidget_Statics::NewProp_ShadowQualitySelection_MetaData), Z_Construct_UClass_USettingsWidget_Statics::NewProp_ShadowQualitySelection_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USettingsWidget_Statics::NewProp_LanguageSelection_MetaData[] = {
+		{ "BindWidget", "" },
+		{ "Category", "SettingsWidget" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "SettingsWidget.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPtrPropertyParams Z_Construct_UClass_USettingsWidget_Statics::NewProp_LanguageSelection = { "LanguageSelection", nullptr, (EPropertyFlags)0x002408000008001c, UECodeGen_Private::EPropertyGenFlags::Object | UECodeGen_Private::EPropertyGenFlags::ObjectPtr, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(USettingsWidget, LanguageSelection), Z_Construct_UClass_USelectionBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_USettingsWidget_Statics::NewProp_LanguageSelection_MetaData), Z_Construct_UClass_USettingsWidget_Statics::NewProp_LanguageSelection_MetaData) };
 	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_USettingsWidget_Statics::NewProp_Resolutions_Inner = { "Resolutions", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, Z_Construct_UScriptStruct_FIntPoint, METADATA_PARAMS(0, nullptr) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USettingsWidget_Statics::NewProp_Resolutions_MetaData[] = {
@@ -294,6 +307,7 @@ void EmptyLinkFunctionForGeneratedCodeSettingsWidget() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USettingsWidget_Statics::NewProp_PostProcessingQualitySelection,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USettingsWidget_Statics::NewProp_VisualEffectsQualitySelection,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USettingsWidget_Statics::NewProp_ShadowQualitySelection,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USettingsWidget_Statics::NewProp_LanguageSelection,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USettingsWidget_Statics::NewProp_Resolutions_Inner,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USettingsWidget_Statics::NewProp_Resolutions,
 	};
@@ -336,9 +350,9 @@ void EmptyLinkFunctionForGeneratedCodeSettingsWidget() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ProjectOvertime_Source_ProjectOvertime_SettingsWidget_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_USettingsWidget, USettingsWidget::StaticClass, TEXT("USettingsWidget"), &Z_Registration_Info_UClass_USettingsWidget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USettingsWidget), 218260530U) },
+		{ Z_Construct_UClass_USettingsWidget, USettingsWidget::StaticClass, TEXT("USettingsWidget"), &Z_Registration_Info_UClass_USettingsWidget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USettingsWidget), 3477418701U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ProjectOvertime_Source_ProjectOvertime_SettingsWidget_h_3527492000(TEXT("/Script/ProjectOvertime"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ProjectOvertime_Source_ProjectOvertime_SettingsWidget_h_1669184569(TEXT("/Script/ProjectOvertime"),
 		Z_CompiledInDeferFile_FID_ProjectOvertime_Source_ProjectOvertime_SettingsWidget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ProjectOvertime_Source_ProjectOvertime_SettingsWidget_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
